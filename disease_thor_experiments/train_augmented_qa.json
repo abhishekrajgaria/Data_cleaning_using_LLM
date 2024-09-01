@@ -1,0 +1,1934 @@
+[
+    {
+        "index": 4,
+        "question": "Diagnosis such as , Liver function test are used to identify which Disease ?",
+        "answer": "jaundice",
+        "category": "diagnosis",
+        "filter_answer": "jaundice"
+    },
+    {
+        "index": 8,
+        "question": "Diagnosis such as Semen analysis are used to identify which Disease ?",
+        "answer": "infertility",
+        "category": "diagnosis",
+        "filter_answer": "infertility"
+    },
+    {
+        "index": 10,
+        "question": "What condition is a person more likely to develop if they have a family history of eczema, allergies, hay fever, or asthma? ",
+        "answer": "eczema",
+        "category": "risk_factors",
+        "filter_answer": "eczema"
+    },
+    {
+        "index": 15,
+        "question": "Diagnosis such as , Syphilis test are used to identify which Disease ?",
+        "answer": "syphilis",
+        "category": "diagnosis",
+        "filter_answer": "syphilis"
+    },
+    {
+        "index": 20,
+        "question": "The factors such as Family history, being woman, osteoarthritis, rheumatoid arthritis or lupus have a risk of which Disease ?",
+        "answer": "fibromyalgia",
+        "category": "risk_factors",
+        "filter_answer": "fibromyalgia"
+    },
+    {
+        "index": 22,
+        "question": "What condition is associated with an increased risk due to factors like family history, stroke and other vascular diseases, dementia, and brain infections? ",
+        "answer": "epilepsy",
+        "category": "risk_factors",
+        "filter_answer": "epilepsy"
+    },
+    {
+        "index": 23,
+        "question": "The factors such as Family history, A diet lacking in certain vitamins and minerals, Intestinal disorders, Pregnancy,  have a risk of which Disease ?",
+        "answer": "anemia",
+        "category": "risk_factors",
+        "filter_answer": "iron deficiency anemia"
+    },
+    {
+        "index": 34,
+        "question": "The factors such as , Obesity, Heavy drinking, Use of illegal drugs, High BP, Cigarette smoking, High cholesterol have a risk of which Disease ?",
+        "answer": "stroke",
+        "category": "risk_factors",
+        "filter_answer": "stroke"
+    },
+    {
+        "index": 36,
+        "question": "What condition or disorder is associated with an increased risk due to factors like specific personality traits, traumatic experiences, family history of mental illness, substance abuse, intersex conditions, and chronic illnesses? ",
+        "answer": "depression",
+        "category": "risk_factors",
+        "filter_answer": "postpartum depression"
+    },
+    {
+        "index": 51,
+        "question": "Preventions like Establish a skin care routine, Use mild soap, use gloves if job requires hands in water avoids which Disease ?",
+        "answer": "eczema",
+        "category": "prevention",
+        "filter_answer": "eczema"
+    },
+    {
+        "index": 54,
+        "question": "The factors such as Family history, Family history, Stroke and other vascular diseases, Dementia, Brain infections,  have a risk of which Disease ?",
+        "answer": "epilepsy",
+        "category": "risk_factors",
+        "filter_answer": "epilepsy"
+    },
+    {
+        "index": 74,
+        "question": "Preventions like Live healthy. Have regular check-ups, eat well-balanced meals, and exercise avoids which Disease ?",
+        "answer": "autism",
+        "category": "prevention",
+        "filter_answer": "autism"
+    },
+    {
+        "index": 76,
+        "question": "What disease is a risk for individuals who are unvaccinated, travel to areas where mumps is prevalent, or come into contact with someone who is infected? ",
+        "answer": "mumps",
+        "category": "risk_factors",
+        "filter_answer": "mumps"
+    },
+    {
+        "index": 77,
+        "question": "What disease poses a risk to individuals who handle animal skins and furs, work with anthrax in a laboratory setting, or inject illegal drugs? ",
+        "answer": "anthrax",
+        "category": "risk_factors",
+        "filter_answer": "anthrax"
+    },
+    {
+        "index": 87,
+        "question": "Diagnosis such as Pregnancy test are used to identify which Disease ?",
+        "answer": "pregnancy",
+        "category": "diagnosis",
+        "filter_answer": "early pregnancy loss"
+    },
+    {
+        "index": 88,
+        "question": "What disease can be prevented by early detection and treatment of infected individuals? ",
+        "answer": "leprosy",
+        "category": "prevention",
+        "filter_answer": "leprosy"
+    },
+    {
+        "index": 92,
+        "question": "What condition can result in complications like learning disabilities, behavioral issues, and social withdrawal? ",
+        "answer": "absence seizure",
+        "category": "complication",
+        "filter_answer": "absence seizure"
+    },
+    {
+        "index": 100,
+        "question": "What condition is more likely to develop in individuals with a family history of the disease, women, or those with existing conditions like osteoarthritis, rheumatoid arthritis, or lupus? ",
+        "answer": "fibromyalgia",
+        "category": "risk_factors",
+        "filter_answer": "fibromyalgia"
+    },
+    {
+        "index": 112,
+        "question": "Diagnosis such as Toxicology test, Toxicological examination are used to identify which Disease ?",
+        "answer": "substance abuse",
+        "category": "diagnosis",
+        "filter_answer": "substance abuse"
+    },
+    {
+        "index": 113,
+        "question": "The factors such as Poor sanitary conditions, Reduced or nonexistent stomach acid, Type O blood, undercooked shellfish have a risk of which Disease ?",
+        "answer": "cholera",
+        "category": "risk_factors",
+        "filter_answer": "cholera"
+    },
+    {
+        "index": 115,
+        "question": "What condition is diagnosed using the thymol turbidity test? ",
+        "answer": "hepatitis",
+        "category": "diagnosis",
+        "filter_answer": "hepatitis"
+    },
+    {
+        "index": 117,
+        "question": "Diagnosis such as , Glucose tolerance test are used to identify which Disease ?",
+        "answer": "diabetes",
+        "category": "diagnosis",
+        "filter_answer": "diabetes mellitus"
+    },
+    {
+        "index": 121,
+        "question": "The factors such as Having unprotected sex,having another sexually transmitted infection have a risk of which Disease ?",
+        "answer": "aids",
+        "category": "risk_factors",
+        "filter_answer": "acquired immuno deficiency syndrome (aids)"
+    },
+    {
+        "index": 124,
+        "question": "Diagnosis such as Toxicological examination are used to identify which Disease ?",
+        "answer": "poisoning",
+        "category": "diagnosis",
+        "filter_answer": "food poisoning"
+    },
+    {
+        "index": 125,
+        "question": "Symptoms such as , headache, chest pain, dizziness, loss of balance, lack of concentration indicate which Disease ?",
+        "answer": "hypertension",
+        "category": "symptom",
+        "filter_answer": "hypertension"
+    },
+    {
+        "index": 130,
+        "question": "What disease can be prevented by getting vaccinated? ",
+        "answer": "whooping cough",
+        "category": "prevention",
+        "filter_answer": "whooping cough"
+    },
+    {
+        "index": 132,
+        "question": "Causes such as Clostridium tetani bacterium, bacteria could lead to which Disease ?",
+        "answer": "tetanus",
+        "category": "cause",
+        "filter_answer": "tetanus"
+    },
+    {
+        "index": 135,
+        "question": "What condition can cause complications like scarring, pitted skin, keloids, and changes in skin pigmentation, including hyperpigmentation and hypopigmentation? ",
+        "answer": "acne",
+        "category": "complication",
+        "filter_answer": "acne"
+    },
+    {
+        "index": 144,
+        "question": "Causes such as Hardening of the arteries, atherosclerosis, High blood pressure, Blood vessel diseases, Infection in the aorta, Trauma could lead to which Disease ?",
+        "answer": "abdominal aortic aneurysm",
+        "category": "cause",
+        "filter_answer": "abdominal aortic aneurysm"
+    },
+    {
+        "index": 160,
+        "question": "What respiratory condition is diagnosed using tests like respiratory tests and pulmonary function tests? ",
+        "answer": "asthma",
+        "category": "diagnosis",
+        "filter_answer": "asthma"
+    },
+    {
+        "index": 161,
+        "question": "Preventions like cover mouth, consult doctor, medication avoids which Disease ?",
+        "answer": "tuberculosis",
+        "category": "prevention",
+        "filter_answer": "tuberculosis"
+    },
+    {
+        "index": 162,
+        "question": "What condition is associated with an increased risk due to factors like depression, smoking, diabetes, sleep apnea, Down syndrome, family history, and heavy alcohol use? ",
+        "answer": "dementia",
+        "category": "risk_factors",
+        "filter_answer": "dementia"
+    },
+    {
+        "index": 169,
+        "question": "Symptoms such as itching, skin rash, fatigue, lethargy, high fever, headache, loss of appetite, mild fever, swelled lymph nodes, malaise, red spots over body indicate which Disease ?",
+        "answer": "chickenpox",
+        "category": "symptom",
+        "filter_answer": "chickenpox"
+    },
+    {
+        "index": 174,
+        "question": "What condition is a person at increased risk of developing if they were born prematurely, experienced significant bruising during birth, have a specific blood type, were breastfed, or belong to a particular racial group? ",
+        "answer": "jaundice",
+        "category": "risk_factors",
+        "filter_answer": "jaundice"
+    },
+    {
+        "index": 181,
+        "question": "What condition is associated with an increased risk due to factors like coronary artery disease, chest pain, heart attack, stroke, and narrowing of arteries? ",
+        "answer": "diabetes",
+        "category": "risk_factors",
+        "filter_answer": "diabetes mellitus"
+    },
+    {
+        "index": 185,
+        "question": "What condition can be prevented by maintaining a good skin care routine, using mild soap, and wearing gloves when working with water? ",
+        "answer": "eczema",
+        "category": "prevention",
+        "filter_answer": "eczema"
+    },
+    {
+        "index": 188,
+        "question": "The factors such as Being teenager, Hormonal changes, Friction or pressure on your skin, Stress, certain medicines have a risk of which Disease ?",
+        "answer": "acne",
+        "category": "risk_factors",
+        "filter_answer": "acne"
+    },
+    {
+        "index": 190,
+        "question": "Which Disease could lead to complications such as osteoarthritis in the knee, arthritis ?",
+        "answer": "acl injury",
+        "category": "complication",
+        "filter_answer": "acl injury"
+    },
+    {
+        "index": 191,
+        "question": "Causes such as virus, sexual contact, illicit injection drug use or sharing needles, contact with infected blood, or from mother to child during pregnancy, childbirth, breastfeeding could lead to which Disease ?",
+        "answer": "aids",
+        "category": "cause",
+        "filter_answer": "acquired immuno deficiency syndrome (aids)"
+    },
+    {
+        "index": 205,
+        "question": "Preventions like Prevent mosquito bites Use insect repellent, wear protective clothing, and get vaccinated before traveling avoids which Disease ?",
+        "answer": "yellow fever",
+        "category": "prevention",
+        "filter_answer": "yellow fever"
+    },
+    {
+        "index": 209,
+        "question": "What condition is characterized by symptoms like chills, vomiting, high fever, sweating, headache, nausea, diarrhea, and muscle pain? ",
+        "answer": "malaria",
+        "category": "symptom",
+        "filter_answer": "malaria"
+    },
+    {
+        "index": 210,
+        "question": "What condition are individuals at increased risk of developing if they are older, overweight, female, have experienced joint injuries or bone deformities, or have certain metabolic diseases? ",
+        "answer": "osteoarthritis",
+        "category": "risk_factors",
+        "filter_answer": "osteoarthritis"
+    },
+    {
+        "index": 218,
+        "question": "What disease is a risk if you live in an area with mosquito breeding grounds or stagnant water near your home, and spend time outdoors at night? ",
+        "answer": "malaria",
+        "category": "risk_factors",
+        "filter_answer": "malaria"
+    },
+    {
+        "index": 222,
+        "question": "What disease poses a risk to individuals who come into contact with infected patients, are unvaccinated, live in overcrowded environments, have weakened immune systems, or work in the medical field? ",
+        "answer": "rubella",
+        "category": "risk_factors",
+        "filter_answer": "rubella"
+    },
+    {
+        "index": 225,
+        "question": "Diagnosis such as Toxicology test, Toxicological examination are used to identify which Disease ?",
+        "answer": "substance abuse",
+        "category": "diagnosis",
+        "filter_answer": "substance abuse"
+    },
+    {
+        "index": 230,
+        "question": "Symptoms such as itching, vomiting, fatigue, weight loss, high fever, yellowish skin, dark urine, abdominal pain,  indicate which Disease ?",
+        "answer": "jaundice",
+        "category": "symptom",
+        "filter_answer": "jaundice"
+    },
+    {
+        "index": 241,
+        "question": "Symptoms such as skin rash, pus filled pimples, blackheads, scurring indicate which Disease ?",
+        "answer": "acne",
+        "category": "symptom",
+        "filter_answer": "acne"
+    },
+    {
+        "index": 244,
+        "question": "What condition can be prevented by maintaining a healthy diet, engaging in regular exercise, and avoiding excessive alcohol consumption and smoking? ",
+        "answer": "stroke",
+        "category": "prevention",
+        "filter_answer": "stroke"
+    },
+    {
+        "index": 252,
+        "question": "Preventions like Getting vaccinated avoids which Disease ?",
+        "answer": "polio",
+        "category": "prevention",
+        "filter_answer": "poliomyelitis"
+    },
+    {
+        "index": 253,
+        "question": "Which Disease could lead to complications such as Hearing loss, Memory problems, Learning disabilities, Brain damage, Trouble walking, Seizures, Kidney failure, Shock, Death,  ?",
+        "answer": "meningitis",
+        "category": "complication",
+        "filter_answer": "meningitis"
+    },
+    {
+        "index": 255,
+        "question": "What condition is associated with an increased risk due to factors like coronary artery disease, chest pain, heart attack, stroke, and narrowing of arteries? ",
+        "answer": "diabetes",
+        "category": "risk_factors",
+        "filter_answer": "diabetes mellitus"
+    },
+    {
+        "index": 259,
+        "question": "What condition can have severe consequences including hearing loss, memory impairment, learning disabilities, brain damage, difficulty walking, seizures, kidney failure, shock, and even death? ",
+        "answer": "meningitis",
+        "category": "complication",
+        "filter_answer": "meningitis"
+    },
+    {
+        "index": 260,
+        "question": "What disease can be caused by infection with the Clostridium tetani bacterium? ",
+        "answer": "tetanus",
+        "category": "cause",
+        "filter_answer": "tetanus"
+    },
+    {
+        "index": 264,
+        "question": "Symptoms such as itching, vomiting, fatigue, weight loss, high fever, yellowish skin, dark urine, abdominal pain,  indicate which Disease ?",
+        "answer": "jaundice",
+        "category": "symptom",
+        "filter_answer": "jaundice"
+    },
+    {
+        "index": 265,
+        "question": "What condition is diagnosed using semen analysis? ",
+        "answer": "infertility",
+        "category": "diagnosis",
+        "filter_answer": "infertility"
+    },
+    {
+        "index": 271,
+        "question": "Diagnosis such as Blood count are used to identify which Disease ?",
+        "answer": "infections",
+        "category": "diagnosis",
+        "filter_answer": "sexually transmitted infections"
+    },
+    {
+        "index": 275,
+        "question": "Preventions like Practice good hand hygiene, Don t share personal items with people who may be ill, get vaccinated avoids which Disease ?",
+        "answer": "measles",
+        "category": "prevention",
+        "filter_answer": "measles"
+    },
+    {
+        "index": 283,
+        "question": "What condition is diagnosed using the thymol turbidity test? ",
+        "answer": "hepatitis",
+        "category": "diagnosis",
+        "filter_answer": "hepatitis"
+    },
+    {
+        "index": 285,
+        "question": "What condition can be prevented by avoiding oily and non-vegetarian foods, and keeping mosquitoes away? ",
+        "answer": "malaria",
+        "category": "prevention",
+        "filter_answer": "malaria"
+    },
+    {
+        "index": 291,
+        "question": "What disease can be prevented by avoiding contact with contaminated surfaces, sick individuals, and animal bites? ",
+        "answer": "anthrax",
+        "category": "prevention",
+        "filter_answer": "anthrax"
+    },
+    {
+        "index": 297,
+        "question": "Preventions like Drink safe water, Wash your hands often with soap, Use toilets, use safe water for cooking avoids which Disease ?",
+        "answer": "cholera",
+        "category": "prevention",
+        "filter_answer": "cholera"
+    },
+    {
+        "index": 300,
+        "question": "What condition can potentially lead to serious complications like respiratory difficulties, blockage of a lung artery (pulmonary embolism), pneumonia, bone fractures, and even death? ",
+        "answer": "tetanus",
+        "category": "complication",
+        "filter_answer": "tetanus"
+    },
+    {
+        "index": 302,
+        "question": "What disease can be prevented by early detection and treatment of infected individuals? ",
+        "answer": "leprosy",
+        "category": "prevention",
+        "filter_answer": "leprosy"
+    },
+    {
+        "index": 305,
+        "question": "What condition is diagnosed through toxicological testing and examination? ",
+        "answer": "substance abuse",
+        "category": "diagnosis",
+        "filter_answer": "substance abuse"
+    },
+    {
+        "index": 308,
+        "question": "The factors such as Injecting drugs, Gunshot wounds, fractures, Animal or insect bites, foot ulcers, surgical wounds have a risk of which Disease ?",
+        "answer": "tetanus",
+        "category": "risk_factors",
+        "filter_answer": "tetanus"
+    },
+    {
+        "index": 309,
+        "question": "Preventions like Cover your mouth when coughing or sneezing, Clean your hands before eating, do not contact ill person avoids which Disease ?",
+        "answer": "mumps",
+        "category": "prevention",
+        "filter_answer": "mumps"
+    },
+    {
+        "index": 311,
+        "question": "What condition can be prevented by practices like meditation, stress reduction, wearing polarized sunglasses in sunlight, and seeking medical advice? ",
+        "answer": "migraine",
+        "category": "prevention",
+        "filter_answer": "migraine"
+    },
+    {
+        "index": 314,
+        "question": "What condition can be prevented by practices like covering your mouth, seeking medical advice, and taking medication? ",
+        "answer": "tuberculosis",
+        "category": "prevention",
+        "filter_answer": "tuberculosis"
+    },
+    {
+        "index": 315,
+        "question": "The factors such as Having multiple sexual partners, being woman, having sex during a herpes outbreak have a risk of which Disease ?",
+        "answer": "herpes",
+        "category": "risk_factors",
+        "filter_answer": "herpes simplex"
+    },
+    {
+        "index": 322,
+        "question": "The factors such as Premature birth, Significant bruising during birth, Blood type, Breast-feeding, Race,  have a risk of which Disease ?",
+        "answer": "jaundice",
+        "category": "risk_factors",
+        "filter_answer": "jaundice"
+    },
+    {
+        "index": 323,
+        "question": "What condition can be prevented by practices like meditation, salt baths, stress reduction, and getting adequate sleep? ",
+        "answer": "hypertension",
+        "category": "prevention",
+        "filter_answer": "hypertension"
+    },
+    {
+        "index": 326,
+        "question": "Symptoms such as muscle wasting, patches in throat, high fever, extra marital contacts indicate which Disease ?",
+        "answer": "aids",
+        "category": "symptom",
+        "filter_answer": "acquired immuno deficiency syndrome (aids)"
+    },
+    {
+        "index": 330,
+        "question": "What condition can result in complications like learning disabilities, behavioral issues, and social withdrawal? ",
+        "answer": "absence seizure",
+        "category": "complication",
+        "filter_answer": "absence seizure"
+    },
+    {
+        "index": 332,
+        "question": "What condition is diagnosed using a syphilis test? ",
+        "answer": "syphilis",
+        "category": "diagnosis",
+        "filter_answer": "syphilis"
+    },
+    {
+        "index": 342,
+        "question": "Preventions like Avoid touching your eyes with unwashed hands, Do not share items used by an infected person avoids which Disease ?",
+        "answer": "conjunctivitis",
+        "category": "prevention",
+        "filter_answer": "adult inclusion conjunctivitis"
+    },
+    {
+        "index": 349,
+        "question": "Symptoms such as chills, vomiting, fatigue, weight loss, cough, high fever, breathlessness, sweating, loss of appetite, mild fever, yellowing of eyes, swelled lymph nodes, malaise, phlegm, chest pain, blood in sputum indicate which Disease ?",
+        "answer": "tuberculosis",
+        "category": "symptom",
+        "filter_answer": "tuberculosis"
+    },
+    {
+        "index": 357,
+        "question": "Symptoms such as , headache, chest pain, dizziness, loss of balance, lack of concentration indicate which Disease ?",
+        "answer": "hypertension",
+        "category": "symptom",
+        "filter_answer": "hypertension"
+    },
+    {
+        "index": 362,
+        "question": "What condition can be prevented by managing stress, boosting self-esteem, getting adequate sleep, maintaining a healthy diet, and engaging in regular exercise? ",
+        "answer": "depression",
+        "category": "prevention",
+        "filter_answer": "postpartum depression"
+    },
+    {
+        "index": 365,
+        "question": "What disease can be prevented by getting vaccinated? ",
+        "answer": "polio",
+        "category": "prevention",
+        "filter_answer": "poliomyelitis"
+    },
+    {
+        "index": 366,
+        "question": "What condition is diagnosed through a lumbar puncture procedure? ",
+        "answer": "encephalitis",
+        "category": "diagnosis",
+        "filter_answer": "acute encephalitis"
+    },
+    {
+        "index": 370,
+        "question": "What condition can be prevented by measures such as consuming high-calorie vegetables, antibiotic treatment, seeking medical advice, and taking prescribed medication? ",
+        "answer": "typhoid",
+        "category": "prevention",
+        "filter_answer": "typhoid"
+    },
+    {
+        "index": 379,
+        "question": "Causes such as Iron deficiency, Vitamin deficiency, deficiency of red blood cells,  could lead to which Disease ?",
+        "answer": "anemia",
+        "category": "cause",
+        "filter_answer": "iron deficiency anemia"
+    },
+    {
+        "index": 381,
+        "question": "What condition can lead to complications like osteoarthritis in the knee and other forms of arthritis? ",
+        "answer": "acl injury",
+        "category": "complication",
+        "filter_answer": "acl injury"
+    },
+    {
+        "index": 384,
+        "question": "What condition is associated with risk factors like poor sanitation, low stomach acid levels, blood type O, and consuming undercooked shellfish? ",
+        "answer": "cholera",
+        "category": "risk_factors",
+        "filter_answer": "cholera"
+    },
+    {
+        "index": 386,
+        "question": "What condition can cause complications like diarrhea and vomiting, ear infections, bronchitis, laryngitis, croup, pneumonia, encephalitis, and pregnancy problems? ",
+        "answer": "measles",
+        "category": "complication",
+        "filter_answer": "measles"
+    },
+    {
+        "index": 390,
+        "question": "The factors such as Being unvaccinated, travelling to places where whooping cough is common, contact of ill person have a risk of which Disease ?",
+        "answer": "whooping cough",
+        "category": "risk_factors",
+        "filter_answer": "whooping cough"
+    },
+    {
+        "index": 397,
+        "question": "What disease poses a risk to individuals who live or travel in tropical regions and have a history of dengue fever infection? ",
+        "answer": "dengue",
+        "category": "risk_factors",
+        "filter_answer": "dengue fever"
+    },
+    {
+        "index": 403,
+        "question": "What disease poses a risk to individuals living in unsanitary environments or those traveling to areas with a higher prevalence of diphtheria infections? ",
+        "answer": "diphtheria",
+        "category": "risk_factors",
+        "filter_answer": "diphtheria"
+    },
+    {
+        "index": 407,
+        "question": "Preventions like Prevent contact with infected persons avoids which Disease ?",
+        "answer": "diphtheria",
+        "category": "prevention",
+        "filter_answer": "diphtheria"
+    },
+    {
+        "index": 413,
+        "question": "What condition can arise from factors like genetic mutations, failure to regulate cell growth, and errors in DNA repair? ",
+        "answer": "cancer",
+        "category": "cause",
+        "filter_answer": "breast cancer"
+    },
+    {
+        "index": 426,
+        "question": "What condition can be caused by deficiencies in iron, vitamins, and red blood cells? ",
+        "answer": "anemia",
+        "category": "cause",
+        "filter_answer": "iron deficiency anemia"
+    },
+    {
+        "index": 433,
+        "question": "What disease can be prevented by measures such as vaccinating dogs and cats against rabies, avoiding keeping wild animals as pets, and leaving stray animals alone? ",
+        "answer": "rabies",
+        "category": "prevention",
+        "filter_answer": "rabies"
+    },
+    {
+        "index": 434,
+        "question": "Causes such as Insulin resistance, Certain drugs and supplements, Cancer could lead to which Disease ?",
+        "answer": "acanthosis nigricans",
+        "category": "cause",
+        "filter_answer": "acanthosis nigricans"
+    },
+    {
+        "index": 435,
+        "question": "What disease can be prevented by avoiding contact with infected individuals? ",
+        "answer": "diphtheria",
+        "category": "prevention",
+        "filter_answer": "diphtheria"
+    },
+    {
+        "index": 448,
+        "question": "Causes such as Suddenly slowing down, changing direction, cutting, Pivoting with your foot firmly planted, Landing awkwardly from jump, Stopping suddenly, direct blow to the knee, having a collision could lead to which Disease ?",
+        "answer": "acl injury",
+        "category": "cause",
+        "filter_answer": "acl injury"
+    },
+    {
+        "index": 452,
+        "question": "Diagnosis such as Pap smear are used to identify which Disease ?",
+        "answer": "cervical cancer",
+        "category": "diagnosis",
+        "filter_answer": "cervical cancer"
+    },
+    {
+        "index": 454,
+        "question": "What condition is associated with an increased risk due to factors like family history, birth complications, and drug use during adolescence and early adulthood? ",
+        "answer": "schizophrenia",
+        "category": "risk_factors",
+        "filter_answer": "schizophrenia"
+    },
+    {
+        "index": 458,
+        "question": "What condition can be triggered by factors like insulin resistance, certain medications and supplements, and cancer? ",
+        "answer": "acanthosis nigricans",
+        "category": "cause",
+        "filter_answer": "acanthosis nigricans"
+    },
+    {
+        "index": 465,
+        "question": "What condition is characterized by symptoms like chills, fatigue, cough, high fever, shortness of breath, sweating, general discomfort, phlegm, chest pain, rapid heartbeat, and discolored sputum? ",
+        "answer": "pneumonia",
+        "category": "symptom",
+        "filter_answer": "pneumonia"
+    },
+    {
+        "index": 466,
+        "question": "The factors such as Older age, overweight, being a woman, Joint injuries, Bone deformities, certain metabolic diseases have a risk of which Disease ?",
+        "answer": "osteoarthritis",
+        "category": "risk_factors",
+        "filter_answer": "osteoarthritis"
+    },
+    {
+        "index": 467,
+        "question": "The factors such as Family history of eczema, allergies, hay fever or asthma have a risk of which Disease ?",
+        "answer": "eczema",
+        "category": "risk_factors",
+        "filter_answer": "eczema"
+    },
+    {
+        "index": 472,
+        "question": "Causes such as bacteria could lead to which Disease ?",
+        "answer": "tuberculosis",
+        "category": "cause",
+        "filter_answer": "tuberculosis"
+    },
+    {
+        "index": 474,
+        "question": "What disease can be prevented by getting vaccinated? ",
+        "answer": "whooping cough",
+        "category": "prevention",
+        "filter_answer": "whooping cough"
+    },
+    {
+        "index": 478,
+        "question": "Symptoms such as chills, vomiting, fatigue, high fever, headache, nausea, constipation, abdominal pain, diarrhoea, toxic look (typhos), belly pain indicate which Disease ?",
+        "answer": "typhoid",
+        "category": "symptom",
+        "filter_answer": "typhoid"
+    },
+    {
+        "index": 479,
+        "question": "The factors such as Living in an endemic region, contact of person suffering from leprosy have a risk of which Disease ?",
+        "answer": "leprosy",
+        "category": "risk_factors",
+        "filter_answer": "leprosy"
+    },
+    {
+        "index": 483,
+        "question": "Symptoms such as skin rash, chills, joint pain, vomiting, fatigue, headache, nausea, loss of appetite, pain behind the eyes, back pain, malaise, muscle pain, red spots over body indicate which Disease ?",
+        "answer": "dengue",
+        "category": "symptom",
+        "filter_answer": "dengue fever"
+    },
+    {
+        "index": 488,
+        "question": "Preventions like Cover your mouth when coughing or sneezing, Clean your hands before eating, do not contact ill person,  avoids which Disease ?",
+        "answer": "meningitis",
+        "category": "prevention",
+        "filter_answer": "meningitis"
+    },
+    {
+        "index": 492,
+        "question": "What condition is diagnosed through a lumbar puncture procedure? ",
+        "answer": "encephalitis",
+        "category": "diagnosis",
+        "filter_answer": "acute encephalitis"
+    },
+    {
+        "index": 494,
+        "question": "What condition can be prevented by adopting a healthy lifestyle that includes sufficient sleep, stress management, regular exercise, and a balanced diet? ",
+        "answer": "fibromyalgia",
+        "category": "prevention",
+        "filter_answer": "fibromyalgia"
+    },
+    {
+        "index": 499,
+        "question": "What condition is characterized by symptoms like chills, vomiting, fatigue, weight loss, cough, high fever, shortness of breath, sweating, loss of appetite, mild fever, yellowing of the eyes, swollen lymph nodes, general discomfort, phlegm, chest pain, and blood in sputum? ",
+        "answer": "tuberculosis",
+        "category": "symptom",
+        "filter_answer": "tuberculosis"
+    },
+    {
+        "index": 502,
+        "question": "What condition is diagnosed using a glucose tolerance test? ",
+        "answer": "diabetes",
+        "category": "diagnosis",
+        "filter_answer": "diabetes mellitus"
+    },
+    {
+        "index": 503,
+        "question": "The factors such as Certain traits, Traumatic events, family history, alcoholism or suicide, intersex, chronic illness have a risk of which Disease ?",
+        "answer": "depression",
+        "category": "risk_factors",
+        "filter_answer": "postpartum depression"
+    },
+    {
+        "index": 506,
+        "question": "The factors such as Availability of mosquito breeding site or stagnant water near the home, staying outdoors overnight have a risk of which Disease ?",
+        "answer": "malaria",
+        "category": "risk_factors",
+        "filter_answer": "malaria"
+    },
+    {
+        "index": 508,
+        "question": "What condition can be prevented by avoiding street drugs, consuming alcohol in moderation, and maintaining social connections? ",
+        "answer": "schizophrenia",
+        "category": "prevention",
+        "filter_answer": "schizophrenia"
+    },
+    {
+        "index": 509,
+        "question": "What condition is characterized by symptoms like skin rash, chills, joint pain, vomiting, fatigue, headache, nausea, loss of appetite, pain behind the eyes, back pain, general discomfort, muscle pain, and red spots on the body? ",
+        "answer": "dengue",
+        "category": "symptom",
+        "filter_answer": "dengue fever"
+    },
+    {
+        "index": 510,
+        "question": "Which Disease could lead to complications such as Scars, Pitted skin, keloids, Skin changes, hyperpigmented, hypopigmented ?",
+        "answer": "acne",
+        "category": "complication",
+        "filter_answer": "acne"
+    },
+    {
+        "index": 516,
+        "question": "What condition can be prevented by avoiding oily and non-vegetarian foods, and keeping mosquitoes away? ",
+        "answer": "malaria",
+        "category": "prevention",
+        "filter_answer": "malaria"
+    },
+    {
+        "index": 518,
+        "question": "Which Disease could lead to complications such as block small blood vessels in brain, cerebral malaria, swelling of brain, brain damage, seizures, coma, Breathing problems, Organ failure, Anemia, Low blood sugar ?",
+        "answer": "malaria",
+        "category": "complication",
+        "filter_answer": "malaria"
+    },
+    {
+        "index": 520,
+        "question": "What condition can lead to serious complications like aortic dissection, ruptured aneurysm, blood clot formation, pain, and blockage of blood flow? ",
+        "answer": "abdominal aortic aneurysm",
+        "category": "complication",
+        "filter_answer": "abdominal aortic aneurysm"
+    },
+    {
+        "index": 523,
+        "question": "What condition can potentially cause complications like spinal pain, joint damage, meningitis, liver or kidney problems, and heart disorders? ",
+        "answer": "tuberculosis",
+        "category": "complication",
+        "filter_answer": "tuberculosis"
+    },
+    {
+        "index": 525,
+        "question": "What condition can be caused by factors like hardening of the arteries, atherosclerosis, high blood pressure, blood vessel diseases, aortic infections, or trauma? ",
+        "answer": "abdominal aortic aneurysm",
+        "category": "cause",
+        "filter_answer": "abdominal aortic aneurysm"
+    },
+    {
+        "index": 527,
+        "question": "Symptoms such as , chills, fatigue, cough, high fever, breathlessness, sweating, malaise, phlegm, chest pain, fast heart rate, rusty sputum indicate which Disease ?",
+        "answer": "pneumonia",
+        "category": "symptom",
+        "filter_answer": "pneumonia"
+    },
+    {
+        "index": 537,
+        "question": "What condition can potentially lead to the development of type 2 diabetes? ",
+        "answer": "acanthosis nigricans",
+        "category": "complication",
+        "filter_answer": "acanthosis nigricans"
+    },
+    {
+        "index": 538,
+        "question": "The factors such as Family history, Viral and bacterial infections, Obesity, Lesions, Smoking have a risk of which Disease ?",
+        "answer": "psoriasis",
+        "category": "risk_factors",
+        "filter_answer": "psoriasis"
+    },
+    {
+        "index": 544,
+        "question": "What condition is characterized by symptoms like itching, vomiting, fatigue, weight loss, high fever, jaundice (yellowing of the skin), dark urine, and abdominal pain? ",
+        "answer": "jaundice",
+        "category": "symptom",
+        "filter_answer": "jaundice"
+    },
+    {
+        "index": 549,
+        "question": "What condition can be a risk factor for individuals with AIDS, severe kidney disease, undergoing cancer treatment, or taking medications to prevent organ transplant rejection? ",
+        "answer": "tuberculosis",
+        "category": "risk_factors",
+        "filter_answer": "tuberculosis"
+    },
+    {
+        "index": 554,
+        "question": "What condition are individuals with asthma, chronic obstructive pulmonary disease (COPD), heart disease, smoking habits, or weakened immune systems at a higher risk of developing? ",
+        "answer": "pneumonia",
+        "category": "risk_factors",
+        "filter_answer": "pneumonia"
+    },
+    {
+        "index": 556,
+        "question": "What disease can be prevented by measures such as avoiding mosquito bites, using insect repellent, and wearing protective clothing like long-sleeved shirts and pants? ",
+        "answer": "chikungunya",
+        "category": "prevention",
+        "filter_answer": "chikungunya fever"
+    },
+    {
+        "index": 558,
+        "question": "The factors such as Family history, A diet lacking in certain vitamins and minerals, Intestinal disorders, Pregnancy,  have a risk of which Disease ?",
+        "answer": "anemia",
+        "category": "risk_factors",
+        "filter_answer": "iron deficiency anemia"
+    },
+    {
+        "index": 564,
+        "question": "What condition is characterized by symptoms like heartburn, indigestion, headaches, blurry or distorted vision, excessive hunger, neck stiffness, depression, irritability, and visual disturbances? ",
+        "answer": "migraine",
+        "category": "symptom",
+        "filter_answer": "migraine"
+    },
+    {
+        "index": 567,
+        "question": "What respiratory condition is indicated by symptoms like wheezing during exhalation, shortness of breath, and chest tightness or pain? ",
+        "answer": "asthma",
+        "category": "risk_factors",
+        "filter_answer": "asthma"
+    },
+    {
+        "index": 569,
+        "question": "Which Disease could lead to complications such as Pneumocystis pneumonia (PCP), Candidiasis (thrush), Tuberculosis (TB), Cytomegalovirus, Cryptococcal meningitis, Toxoplasmosis, Lymphoma, Kaposi's sarcoma, Wasting syndrome, Neurological complications, Kidney disease, Liver disease ?",
+        "answer": "aids",
+        "category": "complication",
+        "filter_answer": "acquired immuno deficiency syndrome (aids)"
+    },
+    {
+        "index": 579,
+        "question": "Preventions like Get adequate sleep, Reduce emotional and mental stress, Get regular exercise, Eat a balanced diet avoids which Disease ?",
+        "answer": "fibromyalgia",
+        "category": "prevention",
+        "filter_answer": "fibromyalgia"
+    },
+    {
+        "index": 589,
+        "question": "What condition is more likely to develop in individuals with a family history of the disease, previous joint injuries, older age, female gender, or obesity? ",
+        "answer": "arthritis",
+        "category": "risk_factors",
+        "filter_answer": "arthritis"
+    },
+    {
+        "index": 595,
+        "question": "What condition is diagnosed using a laparoscopic procedure? ",
+        "answer": "endometriosis",
+        "category": "diagnosis",
+        "filter_answer": "endometriosis"
+    },
+    {
+        "index": 599,
+        "question": "What condition can be prevented by maintaining good hygiene, avoiding smoking, adopting a healthy lifestyle, and minimizing contact with sick individuals? ",
+        "answer": "pneumonia",
+        "category": "prevention",
+        "filter_answer": "pneumonia"
+    },
+    {
+        "index": 600,
+        "question": "What condition can cause complications like pain, fatigue, breathing difficulties, nausea, digestive issues, weight loss, altered body chemistry, neurological problems, unusual immune responses to cancer, and the spread of cancer? ",
+        "answer": "cancer",
+        "category": "complication",
+        "filter_answer": "breast cancer"
+    },
+    {
+        "index": 602,
+        "question": "What condition can lead to serious complications such as Pneumocystis pneumonia (PCP), Candidiasis (thrush), Tuberculosis (TB), Cytomegalovirus infection, Cryptococcal meningitis, Toxoplasmosis, Lymphoma, Kaposi's sarcoma, Wasting syndrome, neurological problems, kidney disease, and liver disease? ",
+        "answer": "aids",
+        "category": "complication",
+        "filter_answer": "acquired immuno deficiency syndrome (aids)"
+    },
+    {
+        "index": 606,
+        "question": "What condition is characterized by symptoms like muscle wasting, throat lesions, high fever, and exposure to multiple sexual partners? ",
+        "answer": "aids",
+        "category": "symptom",
+        "filter_answer": "acquired immuno deficiency syndrome (aids)"
+    },
+    {
+        "index": 608,
+        "question": "The factors such as Family history, birth complications, drugs during teen years and young adulthood have a risk of which Disease ?",
+        "answer": "schizophrenia",
+        "category": "risk_factors",
+        "filter_answer": "schizophrenia"
+    },
+    {
+        "index": 609,
+        "question": "Causes such as Excess oil (sebum) production, Hair follicles clogged by oil and dead skin cells, Bacteria, Inflammation, Hormonal changes, Stress, Diet could lead to which Disease ?",
+        "answer": "acne",
+        "category": "cause",
+        "filter_answer": "acne"
+    },
+    {
+        "index": 612,
+        "question": "Preventions like Lie down flat and raise the leg high, use ointments, use vein compressor, don't stand still for long avoids which Disease ?",
+        "answer": "varicose veins",
+        "category": "prevention",
+        "filter_answer": "varicose veins"
+    },
+    {
+        "index": 617,
+        "question": "Preventions like consuming iron-rich foods such as fish, poultry, eggs, meat, peas, beans, lentils, and potatoes,  avoids which Disease ?",
+        "answer": "anemia",
+        "category": "prevention",
+        "filter_answer": "iron deficiency anemia"
+    },
+    {
+        "index": 619,
+        "question": "What condition is a person more likely to develop if they have a family history of eczema, allergies, hay fever, or asthma? ",
+        "answer": "eczema",
+        "category": "risk_factors",
+        "filter_answer": "eczema"
+    },
+    {
+        "index": 620,
+        "question": "What condition is more likely to affect individuals who are older, women, those going through menopause, experiencing menstrual cycles or pregnancy, or dealing with stress and mental health disorders? ",
+        "answer": "insomnia",
+        "category": "risk_factors",
+        "filter_answer": "insomnia"
+    },
+    {
+        "index": 622,
+        "question": "Preventions like Avoid caffeine, alcohol late in the day, exercise regularly, Make your sleep place comfortable avoids which Disease ?",
+        "answer": "insomnia",
+        "category": "prevention",
+        "filter_answer": "insomnia"
+    },
+    {
+        "index": 623,
+        "question": "Preventions like , meditation,salt baths,reduce stress,get proper sleep avoids which Disease ?",
+        "answer": "hypertension",
+        "category": "prevention",
+        "filter_answer": "hypertension"
+    },
+    {
+        "index": 630,
+        "question": "Preventions like Always use condoms and dental dams during oral, anal, and vaginal sex avoids which Disease ?",
+        "answer": "herpes",
+        "category": "prevention",
+        "filter_answer": "herpes simplex"
+    },
+    {
+        "index": 637,
+        "question": "What sexually transmitted infection is more likely to be contracted by women, individuals with multiple sexual partners, and those engaging in sexual activity during a herpes outbreak? ",
+        "answer": "herpes",
+        "category": "risk_factors",
+        "filter_answer": "herpes simplex"
+    },
+    {
+        "index": 640,
+        "question": "What condition can be prevented by practices like controlling bleeding, maintaining wound cleanliness, using antibiotics, covering the wound, and changing the dressing? ",
+        "answer": "tetanus",
+        "category": "prevention",
+        "filter_answer": "tetanus"
+    },
+    {
+        "index": 646,
+        "question": "Symptoms such as skin rash, pus filled pimples, blackheads, scurring indicate which Disease ?",
+        "answer": "acne",
+        "category": "symptom",
+        "filter_answer": "acne"
+    },
+    {
+        "index": 647,
+        "question": "Preventions like Don't use street drugs, and moderate any use of alcohol, Avoid social isolation avoids which Disease ?",
+        "answer": "schizophrenia",
+        "category": "prevention",
+        "filter_answer": "schizophrenia"
+    },
+    {
+        "index": 649,
+        "question": "Causes such as gene mutations, Fail to stop uncontrolled cell growth, mistakes when repairing DNA errors could lead to which Disease ?",
+        "answer": "cancer",
+        "category": "cause",
+        "filter_answer": "breast cancer"
+    },
+    {
+        "index": 650,
+        "question": "Diagnosis such as Cerebral angiography, Brain scanning, Cardiovascular diagnostic,  are used to identify which Disease ?",
+        "answer": "stroke",
+        "category": "diagnosis",
+        "filter_answer": "stroke"
+    },
+    {
+        "index": 654,
+        "question": "The factors such as Older age, being woman, during menopause, menstrual cycle or pregnancy,stress,mental health disorder have a risk of which Disease ?",
+        "answer": "insomnia",
+        "category": "risk_factors",
+        "filter_answer": "insomnia"
+    },
+    {
+        "index": 656,
+        "question": "What injury or condition can result from activities involving sudden deceleration, changes in direction, forceful pivoting, awkward landings, abrupt stops, direct impacts to the knee, or collisions? ",
+        "answer": "acl injury",
+        "category": "cause",
+        "filter_answer": "acl injury"
+    },
+    {
+        "index": 664,
+        "question": "Which Disease could lead to complications such as Heart disease, cardiovascular disease, Nerve damage, Kidney damage, Eye damage, Foot damage, Skin and mouth conditions, Hearing impairment, Alzheimer's disease, Excess growth, Preeclampsia,  ?",
+        "answer": "diabetes",
+        "category": "complication",
+        "filter_answer": "diabetes mellitus"
+    },
+    {
+        "index": 666,
+        "question": "Which Disease could lead to complications such as difficulties in movement, sitting, complications in daily activities ?",
+        "answer": "back pain",
+        "category": "complication",
+        "filter_answer": "back pain"
+    },
+    {
+        "index": 667,
+        "question": "What condition can be prevented by practices like wearing loose clothing, deep breathing exercises, removing oneself from triggers, and seeking professional assistance? ",
+        "answer": "asthma",
+        "category": "prevention",
+        "filter_answer": "asthma"
+    },
+    {
+        "index": 671,
+        "question": "Which Disease could lead to complications such as Inflammation of heart muscle, myocarditis, Inflammation of valves, endocarditis, Infection of major blood vessels, mycotic aneurysm, Pneumonia, Inflammation of the pancreas, pancreatitis, Kidney or bladder infections, meningitis, Psychiatric problems, delirium, hallucinations, paranoid psychosis ?",
+        "answer": "typhoid",
+        "category": "complication",
+        "filter_answer": "typhoid"
+    },
+    {
+        "index": 675,
+        "question": "The factors such as Being unvaccinated, travelling to places where mumps is common, contact of ill person have a risk of which Disease ?",
+        "answer": "mumps",
+        "category": "risk_factors",
+        "filter_answer": "mumps"
+    },
+    {
+        "index": 677,
+        "question": "What condition is associated with an increased risk due to factors like diabetes, an unhealthy diet, obesity, excessive alcohol consumption, tobacco use, family history, and high blood pressure? ",
+        "answer": "hypertension",
+        "category": "risk_factors",
+        "filter_answer": "hypertension"
+    },
+    {
+        "index": 680,
+        "question": "Which Disease could lead to complications such as Heart disease, cardiovascular disease, Nerve damage, Kidney damage, Eye damage, Foot damage, Skin and mouth conditions, Hearing impairment, Alzheimer's disease, Excess growth, Preeclampsia,  ?",
+        "answer": "diabetes",
+        "category": "complication",
+        "filter_answer": "diabetes mellitus"
+    },
+    {
+        "index": 681,
+        "question": "What disease poses a risk to individuals who are unvaccinated, have a vitamin A deficiency, or travel to regions where measles is prevalent? ",
+        "answer": "measles",
+        "category": "risk_factors",
+        "filter_answer": "measles"
+    },
+    {
+        "index": 684,
+        "question": "What disease poses a risk to individuals who come into contact with infected patients, are unvaccinated, live in overcrowded environments, have weakened immune systems, or work in the medical field? ",
+        "answer": "rubella",
+        "category": "risk_factors",
+        "filter_answer": "rubella"
+    },
+    {
+        "index": 692,
+        "question": "What disease poses a risk to individuals who work with swine, such as farmers and veterinarians, especially if they travel to regions experiencing a swine flu outbreak? ",
+        "answer": "swine flu",
+        "category": "risk_factors",
+        "filter_answer": "swine flu"
+    },
+    {
+        "index": 694,
+        "question": "Preventions like pre-exposure prophylaxis (PrEP),use condoms or dental dams with oral sex avoids which Disease ?",
+        "answer": "aids",
+        "category": "prevention",
+        "filter_answer": "acquired immuno deficiency syndrome (aids)"
+    },
+    {
+        "index": 696,
+        "question": "Diagnosis such as Cardiovascular diagnostic,  are used to identify which Disease ?",
+        "answer": "hypertension",
+        "category": "diagnosis",
+        "filter_answer": "hypertension"
+    },
+    {
+        "index": 697,
+        "question": "Preventions like Getting vaccinated, do not contact ill person avoids which Disease ?",
+        "answer": "rubella",
+        "category": "prevention",
+        "filter_answer": "rubella"
+    },
+    {
+        "index": 698,
+        "question": "Diagnosis such as , Magnetoencephalography, Electroencephalography (EEG) are used to identify which Disease ?",
+        "answer": "epilepsy",
+        "category": "diagnosis",
+        "filter_answer": "epilepsy"
+    },
+    {
+        "index": 701,
+        "question": "Preventions like Early diagnosis and treatment of people who are infected. avoids which Disease ?",
+        "answer": "leprosy",
+        "category": "prevention",
+        "filter_answer": "leprosy"
+    },
+    {
+        "index": 702,
+        "question": "The factors such as Swine farmers and veterinarians, traveled to an area where many people are affected by swine flu have a risk of which Disease ?",
+        "answer": "swine flu",
+        "category": "risk_factors",
+        "filter_answer": "swine flu"
+    },
+    {
+        "index": 707,
+        "question": "Preventions like Early diagnosis and treatment of people who are infected. avoids which Disease ?",
+        "answer": "leprosy",
+        "category": "prevention",
+        "filter_answer": "leprosy"
+    },
+    {
+        "index": 711,
+        "question": "What condition is diagnosed through a lumbar puncture? ",
+        "answer": "meningitis",
+        "category": "diagnosis",
+        "filter_answer": "meningitis"
+    },
+    {
+        "index": 716,
+        "question": "What disease can be contracted through various means, including viral transmission, sexual contact, sharing needles or injecting illicit drugs, exposure to infected blood, or from mother to child during pregnancy, childbirth, or breastfeeding? ",
+        "answer": "aids",
+        "category": "cause",
+        "filter_answer": "acquired immuno deficiency syndrome (aids)"
+    },
+    {
+        "index": 719,
+        "question": "What condition is diagnosed through blood analysis and bone marrow aspiration? ",
+        "answer": "leukemia",
+        "category": "diagnosis",
+        "filter_answer": "leukemia"
+    },
+    {
+        "index": 720,
+        "question": "Preventions like Vaccinate dogs and cats against rabies, Do not keep wild animals as pets, Leave stray animals alone avoids which Disease ?",
+        "answer": "rabies",
+        "category": "prevention",
+        "filter_answer": "rabies"
+    },
+    {
+        "index": 725,
+        "question": "Preventions like Avoid oily food, avoid non veg food, keep mosquitos out avoids which Disease ?",
+        "answer": "malaria",
+        "category": "prevention",
+        "filter_answer": "malaria"
+    },
+    {
+        "index": 729,
+        "question": "What condition can be prevented by practices like elevating the legs, applying ointments, using vein compressors, and avoiding prolonged standing? ",
+        "answer": "varicose veins",
+        "category": "prevention",
+        "filter_answer": "varicose veins"
+    },
+    {
+        "index": 731,
+        "question": "Preventions like eat high calorie vegetables, antibiotic therapy, consult doctor, medication avoids which Disease ?",
+        "answer": "typhoid",
+        "category": "prevention",
+        "filter_answer": "typhoid"
+    },
+    {
+        "index": 732,
+        "question": "Preventions like Handle stress, improve your self-esteem, Get enough sleep, eat well, and exercise regularly avoids which Disease ?",
+        "answer": "depression",
+        "category": "prevention",
+        "filter_answer": "postpartum depression"
+    },
+    {
+        "index": 738,
+        "question": "The factors such as Travelling where rabies is common, Activities that put you in contact with wild animals have a risk of which Disease ?",
+        "answer": "rabies",
+        "category": "risk_factors",
+        "filter_answer": "rabies"
+    },
+    {
+        "index": 756,
+        "question": "What condition can be prevented by consuming papaya leaf juice, maintaining a balanced diet low in fatty and spicy foods, protecting oneself from mosquito bites, and staying hydrated? ",
+        "answer": "dengue",
+        "category": "prevention",
+        "filter_answer": "dengue fever"
+    },
+    {
+        "index": 760,
+        "question": "Causes such as Viral infections, Streptococcus pneumonia, Neisseria meningitidis, Haemophilus influenzae, Listeria monocytogenes,  could lead to which Disease ?",
+        "answer": "meningitis",
+        "category": "cause",
+        "filter_answer": "meningitis"
+    },
+    {
+        "index": 761,
+        "question": "What condition can be prevented by practices like abstaining from smoking, frequent handwashing, wearing a mask in crowded areas, and avoiding contact with sick individuals? ",
+        "answer": "bronchitis",
+        "category": "prevention",
+        "filter_answer": "bronchitis"
+    },
+    {
+        "index": 765,
+        "question": "What condition is more likely to occur in teenagers due to factors like hormonal changes, skin friction or pressure, stress, and certain medications? ",
+        "answer": "acne",
+        "category": "risk_factors",
+        "filter_answer": "acne"
+    },
+    {
+        "index": 767,
+        "question": "What condition is associated with an increased risk due to factors like family history, viral and bacterial infections, obesity, lesions, and smoking? ",
+        "answer": "psoriasis",
+        "category": "risk_factors",
+        "filter_answer": "psoriasis"
+    },
+    {
+        "index": 772,
+        "question": "What condition is diagnosed through toxicological examination? ",
+        "answer": "poisoning",
+        "category": "diagnosis",
+        "filter_answer": "food poisoning"
+    },
+    {
+        "index": 773,
+        "question": "Causes such as virus, infectious droplets, someone with measles coughs, sneezes or talks, putting your fingers in your mouth or nose, rubbing your eyes, touching the infected surface could lead to which Disease ?",
+        "answer": "measles",
+        "category": "cause",
+        "filter_answer": "measles"
+    },
+    {
+        "index": 774,
+        "question": "The factors such as Family history, being a boy, Other disorders, Extremely preterm babies, older parents at birth of child have a risk of which Disease ?",
+        "answer": "autism",
+        "category": "risk_factors",
+        "filter_answer": "autism"
+    },
+    {
+        "index": 780,
+        "question": "What disease poses a risk if you travel to areas where rabies is prevalent or engage in activities that bring you into contact with wild animals? ",
+        "answer": "rabies",
+        "category": "risk_factors",
+        "filter_answer": "rabies"
+    },
+    {
+        "index": 784,
+        "question": "What condition can be prevented or alleviated through practices like exercise, hot and cold therapy, acupuncture, and massage? ",
+        "answer": "arthritis",
+        "category": "prevention",
+        "filter_answer": "arthritis"
+    },
+    {
+        "index": 789,
+        "question": "The factors such as Being teenager, Hormonal changes, Friction or pressure on your skin, Stress, certain medicines have a risk of which Disease ?",
+        "answer": "acne",
+        "category": "risk_factors",
+        "filter_answer": "acne"
+    },
+    {
+        "index": 791,
+        "question": "What condition is diagnosed using cardiovascular diagnostic methods? ",
+        "answer": "hypertension",
+        "category": "diagnosis",
+        "filter_answer": "hypertension"
+    },
+    {
+        "index": 792,
+        "question": "Which Disease could lead to complications such as Extreme fatigue, Pregnancy complications, Heart problems, Death,  ?",
+        "answer": "anemia",
+        "category": "complication",
+        "filter_answer": "iron deficiency anemia"
+    },
+    {
+        "index": 797,
+        "question": "Which Disease could lead to complications such as Learning difficulties, Behavior problems, Social isolation ?",
+        "answer": "absence seizure",
+        "category": "complication",
+        "filter_answer": "absence seizure"
+    },
+    {
+        "index": 799,
+        "question": "The factors such as Injecting drugs, Gunshot wounds, fractures, Animal or insect bites, foot ulcers, surgical wounds have a risk of which Disease ?",
+        "answer": "tetanus",
+        "category": "risk_factors",
+        "filter_answer": "tetanus"
+    },
+    {
+        "index": 801,
+        "question": "The factors such as AIDS, Severe kidney disease, Cancer treatment, Drugs to prevent rejection of transplanted organs have a risk of which Disease ?",
+        "answer": "tuberculosis",
+        "category": "risk_factors",
+        "filter_answer": "tuberculosis"
+    },
+    {
+        "index": 804,
+        "question": "The factors such as Family history, Previous joint injury, older age, being woman, obesity have a risk of which Disease ?",
+        "answer": "arthritis",
+        "category": "risk_factors",
+        "filter_answer": "arthritis"
+    },
+    {
+        "index": 805,
+        "question": "The factors such as coronary artery disease with chest pain, heart attack, stroke and narrowing of arteries,  have a risk of which Disease ?",
+        "answer": "diabetes",
+        "category": "risk_factors",
+        "filter_answer": "diabetes mellitus"
+    },
+    {
+        "index": 810,
+        "question": "Causes such as genetic predisposition, abnormal electrical impulses from nerve cells could lead to which Disease ?",
+        "answer": "absence seizure",
+        "category": "cause",
+        "filter_answer": "absence seizure"
+    },
+    {
+        "index": 819,
+        "question": "What condition can be prevented by maintaining a balanced diet, engaging in regular exercise, seeking medical advice, and following up with healthcare professionals? ",
+        "answer": "diabetes",
+        "category": "prevention",
+        "filter_answer": "diabetes mellitus"
+    },
+    {
+        "index": 824,
+        "question": "What condition is diagnosed using a laparoscopic procedure? ",
+        "answer": "endometriosis",
+        "category": "diagnosis",
+        "filter_answer": "endometriosis"
+    },
+    {
+        "index": 833,
+        "question": "Symptoms such as itching, vomiting, fatigue, weight loss, high fever, yellowish skin, dark urine, abdominal pain,  indicate which Disease ?",
+        "answer": "jaundice",
+        "category": "symptom",
+        "filter_answer": "jaundice"
+    },
+    {
+        "index": 834,
+        "question": "Preventions like Wash hands with warm soapy water, stop bleeding using pressure, consult doctor, salt baths avoids which Disease ?",
+        "answer": "psoriasis",
+        "category": "prevention",
+        "filter_answer": "psoriasis"
+    },
+    {
+        "index": 835,
+        "question": "What disease can be prevented by taking measures like avoiding mosquito bites, using insect repellent, wearing protective clothing, and getting vaccinated before traveling? ",
+        "answer": "yellow fever",
+        "category": "prevention",
+        "filter_answer": "yellow fever"
+    },
+    {
+        "index": 844,
+        "question": "What disease can be prevented by practicing good hygiene, such as drinking safe water, frequent handwashing with soap, using toilets, and ensuring safe water for cooking? ",
+        "answer": "cholera",
+        "category": "prevention",
+        "filter_answer": "cholera"
+    },
+    {
+        "index": 845,
+        "question": "Diagnosis such as Lumbar puncture are used to identify which Disease ?",
+        "answer": "encephalitis",
+        "category": "diagnosis",
+        "filter_answer": "acute encephalitis"
+    },
+    {
+        "index": 847,
+        "question": "What condition can cause complications like pain, fatigue, breathing difficulties, nausea, digestive issues, weight loss, altered body chemistry, neurological problems, unusual immune responses to cancer, and the spread of cancer? ",
+        "answer": "cancer",
+        "category": "complication",
+        "filter_answer": "breast cancer"
+    },
+    {
+        "index": 851,
+        "question": "What condition is characterized by symptoms like muscle weakness, a stiff neck, swollen joints, difficulty moving, and painful walking? ",
+        "answer": "arthritis",
+        "category": "symptom",
+        "filter_answer": "arthritis"
+    },
+    {
+        "index": 860,
+        "question": "What condition can be triggered by factors like cigarette smoke, gastric reflux, occupational exposure to irritants, and a weakened immune system? ",
+        "answer": "bronchitis",
+        "category": "risk_factors",
+        "filter_answer": "bronchitis"
+    },
+    {
+        "index": 862,
+        "question": "Preventions like meditation,reduce stress,use polaroid glasses in sun,consult doctor avoids which Disease ?",
+        "answer": "migraine",
+        "category": "prevention",
+        "filter_answer": "migraine"
+    },
+    {
+        "index": 863,
+        "question": "Diagnosis such as Pregnancy test are used to identify which Disease ?",
+        "answer": "ectopic pregnancy",
+        "category": "diagnosis",
+        "filter_answer": "ectopic pregnancy"
+    },
+    {
+        "index": 864,
+        "question": "What condition can be prevented by taking frequent breaks, staying hydrated, wearing protective clothing, and avoiding crowded areas while riding? ",
+        "answer": "epilepsy",
+        "category": "prevention",
+        "filter_answer": "epilepsy"
+    },
+    {
+        "index": 865,
+        "question": "What condition is diagnosed using a pregnancy test? ",
+        "answer": "ectopic pregnancy",
+        "category": "diagnosis",
+        "filter_answer": "ectopic pregnancy"
+    },
+    {
+        "index": 867,
+        "question": "Preventions like Handle stress, improve your self-esteem, Get enough sleep, eat well, and exercise regularly avoids which Disease ?",
+        "answer": "depression",
+        "category": "prevention",
+        "filter_answer": "postpartum depression"
+    },
+    {
+        "index": 868,
+        "question": "Preventions like Control bleeding, Keep the wound clean, Use antibiotics, Cover the wound, Change the dressing avoids which Disease ?",
+        "answer": "tetanus",
+        "category": "prevention",
+        "filter_answer": "tetanus"
+    },
+    {
+        "index": 870,
+        "question": "The factors such as Work in or travel to areas where typhoid fever is established, Drink contaminated water have a risk of which Disease ?",
+        "answer": "typhoid",
+        "category": "risk_factors",
+        "filter_answer": "typhoid"
+    },
+    {
+        "index": 871,
+        "question": "What sexually transmitted infection (STI) is more likely to be contracted if someone engages in unprotected sex or already has another STI? ",
+        "answer": "aids",
+        "category": "risk_factors",
+        "filter_answer": "acquired immuno deficiency syndrome (aids)"
+    },
+    {
+        "index": 875,
+        "question": "What sexually transmitted infection can be prevented by using pre-exposure prophylaxis (PrEP) and practicing safe sex with condoms or dental dams during oral sex? ",
+        "answer": "aids",
+        "category": "prevention",
+        "filter_answer": "acquired immuno deficiency syndrome (aids)"
+    },
+    {
+        "index": 878,
+        "question": "The factors such as Older age, people with underlying medical conditions, such as hypertension, diabetes, or heart disease have a risk of which Disease ?",
+        "answer": "chikungunya",
+        "category": "risk_factors",
+        "filter_answer": "chikungunya fever"
+    },
+    {
+        "index": 881,
+        "question": "What condition is characterized by symptoms like fatigue, weight loss, restlessness, lethargy, irregular blood sugar levels, blurred or distorted vision, obesity, excessive hunger, increased appetite, and frequent urination? ",
+        "answer": "diabetes",
+        "category": "symptom",
+        "filter_answer": "diabetes mellitus"
+    },
+    {
+        "index": 891,
+        "question": "Diagnosis such as Respiratory test, Thoracentesis,  are used to identify which Disease ?",
+        "answer": "pneumonia",
+        "category": "diagnosis",
+        "filter_answer": "pneumonia"
+    },
+    {
+        "index": 892,
+        "question": "Which Disease could lead to complications such as type 2 diabetes ?",
+        "answer": "acanthosis nigricans",
+        "category": "complication",
+        "filter_answer": "acanthosis nigricans"
+    },
+    {
+        "index": 893,
+        "question": "What condition is diagnosed through toxicological examination? ",
+        "answer": "poisoning",
+        "category": "diagnosis",
+        "filter_answer": "food poisoning"
+    },
+    {
+        "index": 894,
+        "question": "Diagnosis such as Nasopharyngolaryngoscopy are used to identify which Disease ?",
+        "answer": "nasal polyps",
+        "category": "diagnosis",
+        "filter_answer": "nasal polyps"
+    },
+    {
+        "index": 900,
+        "question": "What condition can be prevented by practices like staying hydrated, consuming milk thistle, eating fruits and high-fiber foods, and taking medication? ",
+        "answer": "jaundice",
+        "category": "prevention",
+        "filter_answer": "jaundice"
+    },
+    {
+        "index": 903,
+        "question": "The factors such as Living or traveling in tropical areas, Prior infection with a dengue fever virus have a risk of which Disease ?",
+        "answer": "dengue",
+        "category": "risk_factors",
+        "filter_answer": "dengue fever"
+    },
+    {
+        "index": 906,
+        "question": "What condition can be prevented by practices like controlling bleeding, maintaining wound cleanliness, using antibiotics, covering the wound, and changing the dressing? ",
+        "answer": "tetanus",
+        "category": "prevention",
+        "filter_answer": "tetanus"
+    },
+    {
+        "index": 909,
+        "question": "What condition can be influenced by factors such as family history, nutritional deficiencies, intestinal problems, and pregnancy? ",
+        "answer": "anemia",
+        "category": "risk_factors",
+        "filter_answer": "iron deficiency anemia"
+    },
+    {
+        "index": 915,
+        "question": "The factors such as Cigarette smoke, Gastric reflux, Exposure to irritants on the job, weak immunity have a risk of which Disease ?",
+        "answer": "bronchitis",
+        "category": "risk_factors",
+        "filter_answer": "bronchitis"
+    },
+    {
+        "index": 917,
+        "question": "Preventions like Don't smoke, Wash your hands frequently, wear mask in a large crowd, Avoid contacting ill people avoids which Disease ?",
+        "answer": "bronchitis",
+        "category": "prevention",
+        "filter_answer": "bronchitis"
+    },
+    {
+        "index": 919,
+        "question": "What illness can be prevented by practicing good hygiene habits such as covering your mouth when coughing or sneezing, washing your hands before eating, and avoiding contact with sick individuals? ",
+        "answer": "meningitis",
+        "category": "prevention",
+        "filter_answer": "meningitis"
+    },
+    {
+        "index": 920,
+        "question": "What condition can cause complications like blockage of small blood vessels in the brain, cerebral malaria, brain swelling, brain damage, seizures, coma, respiratory issues, organ failure, anemia, and low blood sugar? ",
+        "answer": "malaria",
+        "category": "complication",
+        "filter_answer": "malaria"
+    },
+    {
+        "index": 921,
+        "question": "Symptoms such as skin rash, joint pain, skin peeling, silver like dusting, small dents in nails, inflammatory nails indicate which Disease ?",
+        "answer": "psoriasis",
+        "category": "symptom",
+        "filter_answer": "psoriasis"
+    },
+    {
+        "index": 923,
+        "question": "What condition can cause difficulties with movement, sitting, and performing everyday tasks? ",
+        "answer": "back pain",
+        "category": "complication",
+        "filter_answer": "back pain"
+    },
+    {
+        "index": 924,
+        "question": "Causes such as Suddenly slowing down, changing direction, cutting, Pivoting with your foot firmly planted, Landing awkwardly from jump, Stopping suddenly, direct blow to the knee, having a collision could lead to which Disease ?",
+        "answer": "acl injury",
+        "category": "cause",
+        "filter_answer": "acl injury"
+    },
+    {
+        "index": 925,
+        "question": "What condition can be prevented by maintaining a healthy lifestyle, including regular check-ups, a balanced diet, and exercise? ",
+        "answer": "autism",
+        "category": "prevention",
+        "filter_answer": "autism"
+    },
+    {
+        "index": 926,
+        "question": "What condition is characterized by symptoms like fatigue, muscle cramps, bruising, obesity, swollen legs, enlarged blood vessels, and prominent veins on the calf? ",
+        "answer": "varicose veins",
+        "category": "symptom",
+        "filter_answer": "varicose veins"
+    },
+    {
+        "index": 927,
+        "question": "The factors such as Contact with infected patient, not vaccinated, Overcrowding, Poor immune system, Medical personnel have a risk of which Disease ?",
+        "answer": "rubella",
+        "category": "risk_factors",
+        "filter_answer": "rubella"
+    },
+    {
+        "index": 929,
+        "question": "What illness can be prevented by measures such as getting the H1N1 vaccine, frequent handwashing with soap, and avoiding touching your eyes, nose, and mouth? ",
+        "answer": "swine flu",
+        "category": "prevention",
+        "filter_answer": "swine flu"
+    },
+    {
+        "index": 930,
+        "question": "Preventions like Bath twice, avoid fatty spicy food, drink plenty of water, avoid too many products avoids which Disease ?",
+        "answer": "acne",
+        "category": "prevention",
+        "filter_answer": "acne"
+    },
+    {
+        "index": 932,
+        "question": "What disease can be contracted through mosquito bites, transmission from mother to fetus, blood transfusions, or the spread of a parasite? ",
+        "answer": "malaria",
+        "category": "cause",
+        "filter_answer": "malaria"
+    },
+    {
+        "index": 933,
+        "question": "What condition can be triggered by factors like wearing contact lenses or exposure to allergens? ",
+        "answer": "conjunctivitis",
+        "category": "risk_factors",
+        "filter_answer": "adult inclusion conjunctivitis"
+    },
+    {
+        "index": 934,
+        "question": "The factors such as Skipping meals, Too much or too little sleep, Stress, Smoking, Depression, anxiety, excessive alcohol have a risk of which Disease ?",
+        "answer": "migraine",
+        "category": "risk_factors",
+        "filter_answer": "migraine"
+    },
+    {
+        "index": 939,
+        "question": "Causes such as bacteria, Salmonella enterica serotype typhi, salmonella bacteria could lead to which Disease ?",
+        "answer": "typhoid",
+        "category": "cause",
+        "filter_answer": "typhoid"
+    },
+    {
+        "index": 941,
+        "question": "Which Disease could lead to complications such as Spinal pain, Joint damage, meningitis, Liver or kidney problems, Heart disorders ?",
+        "answer": "tuberculosis",
+        "category": "complication",
+        "filter_answer": "tuberculosis"
+    },
+    {
+        "index": 945,
+        "question": "What condition can be triggered by factors like poor diet, genetics, excess weight, lack of physical activity, insulin resistance, family history, genetic mutations, hormonal imbalances, and obesity? ",
+        "answer": "diabetes",
+        "category": "cause",
+        "filter_answer": "diabetes mellitus"
+    },
+    {
+        "index": 946,
+        "question": "Which Disease could lead to complications such as Pain, Fatigue, Difficulty breathing, Nausea, Diarrhea or constipation, Weight loss, Chemical changes in your body, Brain and nervous system problems, Unusual immune system reactions to cancer, Cancer that spreads ?",
+        "answer": "cancer",
+        "category": "complication",
+        "filter_answer": "breast cancer"
+    },
+    {
+        "index": 947,
+        "question": "What condition can be prevented by measures such as taking acetaminophen, soaking in salt baths, maintaining a healthy weight, and protecting your joints from injury? ",
+        "answer": "osteoarthritis",
+        "category": "prevention",
+        "filter_answer": "osteoarthritis"
+    },
+    {
+        "index": 950,
+        "question": "What condition is characterized by symptoms like chills, vomiting, fatigue, high fever, headache, nausea, constipation, abdominal pain, diarrhea, a toxic appearance, and belly pain? ",
+        "answer": "typhoid",
+        "category": "symptom",
+        "filter_answer": "typhoid"
+    },
+    {
+        "index": 953,
+        "question": "The factors such as Handle animal skins, furs, Work with anthrax in a laboratory, Inject illegal drugs have a risk of which Disease ?",
+        "answer": "anthrax",
+        "category": "risk_factors",
+        "filter_answer": "anthrax"
+    },
+    {
+        "index": 957,
+        "question": "Which Disease could lead to complications such as Spinal pain, Joint damage, meningitis, Liver or kidney problems, Heart disorders ?",
+        "answer": "tuberculosis",
+        "category": "complication",
+        "filter_answer": "tuberculosis"
+    },
+    {
+        "index": 958,
+        "question": "What condition is diagnosed through tests like hematocrit, blood count, and blood analysis? ",
+        "answer": "anemia",
+        "category": "diagnosis",
+        "filter_answer": "iron deficiency anemia"
+    },
+    {
+        "index": 959,
+        "question": "The factors such as If you travel to an area where mosquitoes continue to carry the yellow fever virus. have a risk of which Disease ?",
+        "answer": "yellow fever",
+        "category": "risk_factors",
+        "filter_answer": "yellow fever"
+    },
+    {
+        "index": 960,
+        "question": "What condition can be caused by factors like muscle or ligament strain, bulging or ruptured discs, arthritis, or osteoporosis? ",
+        "answer": "back pain",
+        "category": "cause",
+        "filter_answer": "back pain"
+    },
+    {
+        "index": 963,
+        "question": "Preventions like Balanced diet, exercising regularly, stopping smoking, keeping alcohol within recommended limits avoids which Disease ?",
+        "answer": "dementia",
+        "category": "prevention",
+        "filter_answer": "dementia"
+    },
+    {
+        "index": 966,
+        "question": "The factors such as Children younger than 5, unvaccinated individuals have a risk of which Disease ?",
+        "answer": "polio",
+        "category": "risk_factors",
+        "filter_answer": "poliomyelitis"
+    },
+    {
+        "index": 969,
+        "question": "The factors such as Older age, being woman, Family history, Obesity, Standing or sitting for long periods of time have a risk of which Disease ?",
+        "answer": "varicose veins",
+        "category": "risk_factors",
+        "filter_answer": "varicose veins"
+    },
+    {
+        "index": 970,
+        "question": "Preventions like switch to loose clothing, take deep breaths, get away from trigger, seek help,  avoids which Disease ?",
+        "answer": "asthma",
+        "category": "prevention",
+        "filter_answer": "asthma"
+    },
+    {
+        "index": 974,
+        "question": "Preventions like drink plenty of water,consume milk thistle,eat fruits and high fibrous food,medication,  avoids which Disease ?",
+        "answer": "jaundice",
+        "category": "prevention",
+        "filter_answer": "jaundice"
+    },
+    {
+        "index": 977,
+        "question": "What health condition is associated with an increased risk due to factors like obesity, excessive alcohol consumption, illicit drug use, high blood pressure, cigarette smoking, and high cholesterol levels? ",
+        "answer": "stroke",
+        "category": "risk_factors",
+        "filter_answer": "stroke"
+    },
+    {
+        "index": 978,
+        "question": "The factors such as Depression, smoking, Diabetes, Sleep apnea, Down syndrome, Family history, Heavy alcohol use have a risk of which Disease ?",
+        "answer": "dementia",
+        "category": "risk_factors",
+        "filter_answer": "dementia"
+    },
+    {
+        "index": 983,
+        "question": "Preventions like , Practice good hygiene, Don't smoke, Practice a healthy lifestyle, Avoid sick people avoids which Disease ?",
+        "answer": "pneumonia",
+        "category": "prevention",
+        "filter_answer": "pneumonia"
+    },
+    {
+        "index": 990,
+        "question": "What disease poses a risk if you travel to a region where mosquitoes are known to transmit the yellow fever virus? ",
+        "answer": "yellow fever",
+        "category": "risk_factors",
+        "filter_answer": "yellow fever"
+    },
+    {
+        "index": 992,
+        "question": "What injury or condition can result from activities involving sudden deceleration, changes in direction, forceful pivoting, awkward landings, abrupt stops, direct impacts to the knee, or collisions? ",
+        "answer": "acl injury",
+        "category": "cause",
+        "filter_answer": "acl injury"
+    },
+    {
+        "index": 993,
+        "question": "What sexually transmitted infection can be prevented by consistently using condoms and dental dams during oral, anal, and vaginal sex? ",
+        "answer": "herpes",
+        "category": "prevention",
+        "filter_answer": "herpes simplex"
+    },
+    {
+        "index": 994,
+        "question": "What condition can be contracted through activities like injecting drugs, gunshot wounds, fractures, animal or insect bites, foot ulcers, and surgical wounds? ",
+        "answer": "tetanus",
+        "category": "risk_factors",
+        "filter_answer": "tetanus"
+    },
+    {
+        "index": 995,
+        "question": "Symptoms such as chills, vomiting, high fever, sweating, headache, nausea, diarrhoea, muscle pain indicate which Disease ?",
+        "answer": "malaria",
+        "category": "symptom",
+        "filter_answer": "malaria"
+    },
+    {
+        "index": 1003,
+        "question": "What condition can be prevented by consuming papaya leaf juice, maintaining a balanced diet low in fatty and spicy foods, protecting oneself from mosquito bites, and staying hydrated? ",
+        "answer": "dengue",
+        "category": "prevention",
+        "filter_answer": "dengue fever"
+    },
+    {
+        "index": 1004,
+        "question": "Diagnosis such as , Respiratory test, Pulmonary function test are used to identify which Disease ?",
+        "answer": "asthma",
+        "category": "diagnosis",
+        "filter_answer": "asthma"
+    },
+    {
+        "index": 1009,
+        "question": "The factors such as , Asthma, chronic obstructive pulmonary disease (COPD) or heart disease, Smoking, weakened immunity have a risk of which Disease ?",
+        "answer": "pneumonia",
+        "category": "risk_factors",
+        "filter_answer": "pneumonia"
+    },
+    {
+        "index": 1010,
+        "question": "Preventions like Avoid touching a contaminated surface, avoid contact of ill person, prevent animal bites avoids which Disease ?",
+        "answer": "anthrax",
+        "category": "prevention",
+        "filter_answer": "anthrax"
+    },
+    {
+        "index": 1011,
+        "question": "The factors such as coronary artery disease with chest pain, heart attack, stroke and narrowing of arteries,  have a risk of which Disease ?",
+        "answer": "diabetes",
+        "category": "risk_factors",
+        "filter_answer": "diabetes mellitus"
+    },
+    {
+        "index": 1012,
+        "question": "What condition is diagnosed using a liver function test? ",
+        "answer": "jaundice",
+        "category": "diagnosis",
+        "filter_answer": "jaundice"
+    },
+    {
+        "index": 1014,
+        "question": "What condition poses a higher risk to individuals who skip vaccinations, pregnant women, those with weakened immune systems, AIDS, alcoholism, diabetes, or drug users? ",
+        "answer": "meningitis",
+        "category": "risk_factors",
+        "filter_answer": "meningitis"
+    }
+]
