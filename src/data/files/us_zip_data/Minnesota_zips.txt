@@ -1,0 +1,992 @@
+The city of Hill City, located in the state of Minnesota (state code - MN), is identified by the zip code 55748.
+The city of Jacobson, located in the state of Minnesota (state code - MN), is identified by the zip code 55752.
+The city of Mcgregor, located in the state of Minnesota (state code - MN), is identified by the zip code 55760.
+The city of Swatara, located in the state of Minnesota (state code - MN), is identified by the zip code 55785.
+The city of Tamarack, located in the state of Minnesota (state code - MN), is identified by the zip code 55787.
+The city of Mc Grath, located in the state of Minnesota (state code - MN), is identified by the zip code 56350.
+The city of Aitkin, located in the state of Minnesota (state code - MN), is identified by the zip code 56431.
+The city of Palisade, located in the state of Minnesota (state code - MN), is identified by the zip code 56469.
+The city of Bethel, located in the state of Minnesota (state code - MN), is identified by the zip code 55005.
+The city of Cedar, located in the state of Minnesota (state code - MN), is identified by the zip code 55011.
+The city of Circle Pines, located in the state of Minnesota (state code - MN), is identified by the zip code 55014.
+The city of Saint Francis, located in the state of Minnesota (state code - MN), is identified by the zip code 55070.
+The city of Anoka, located in the state of Minnesota (state code - MN), is identified by the zip code 55303.
+The city of Andover, located in the state of Minnesota (state code - MN), is identified by the zip code 55304.
+The city of Minneapolis, located in the state of Minnesota (state code - MN), is identified by the zip code 55421.
+The city of Minneapolis, located in the state of Minnesota (state code - MN), is identified by the zip code 55432.
+The city of Minneapolis, located in the state of Minnesota (state code - MN), is identified by the zip code 55433.
+The city of Minneapolis, located in the state of Minnesota (state code - MN), is identified by the zip code 55434.
+The city of Minneapolis, located in the state of Minnesota (state code - MN), is identified by the zip code 55448.
+The city of Minneapolis, located in the state of Minnesota (state code - MN), is identified by the zip code 55449.
+The city of Detroit Lakes, located in the state of Minnesota (state code - MN), is identified by the zip code 56501.
+The city of Detroit Lakes, located in the state of Minnesota (state code - MN), is identified by the zip code 56502.
+The city of Audubon, located in the state of Minnesota (state code - MN), is identified by the zip code 56511.
+The city of Callaway, located in the state of Minnesota (state code - MN), is identified by the zip code 56521.
+The city of Frazee, located in the state of Minnesota (state code - MN), is identified by the zip code 56544.
+The city of Lake Park, located in the state of Minnesota (state code - MN), is identified by the zip code 56554.
+The city of Ogema, located in the state of Minnesota (state code - MN), is identified by the zip code 56569.
+The city of Osage, located in the state of Minnesota (state code - MN), is identified by the zip code 56570.
+The city of Ponsford, located in the state of Minnesota (state code - MN), is identified by the zip code 56575.
+The city of Richwood, located in the state of Minnesota (state code - MN), is identified by the zip code 56577.
+The city of Rochert, located in the state of Minnesota (state code - MN), is identified by the zip code 56578.
+The city of White Earth, located in the state of Minnesota (state code - MN), is identified by the zip code 56591.
+The city of Wolf Lake, located in the state of Minnesota (state code - MN), is identified by the zip code 56593.
+The city of Bemidji, located in the state of Minnesota (state code - MN), is identified by the zip code 56601.
+The city of Bemidji, located in the state of Minnesota (state code - MN), is identified by the zip code 56619.
+The city of Blackduck, located in the state of Minnesota (state code - MN), is identified by the zip code 56630.
+The city of Hines, located in the state of Minnesota (state code - MN), is identified by the zip code 56647.
+The city of Kelliher, located in the state of Minnesota (state code - MN), is identified by the zip code 56650.
+The city of Pennington, located in the state of Minnesota (state code - MN), is identified by the zip code 56663.
+The city of Ponemah, located in the state of Minnesota (state code - MN), is identified by the zip code 56666.
+The city of Puposky, located in the state of Minnesota (state code - MN), is identified by the zip code 56667.
+The city of Redby, located in the state of Minnesota (state code - MN), is identified by the zip code 56670.
+The city of Redlake, located in the state of Minnesota (state code - MN), is identified by the zip code 56671.
+The city of Solway, located in the state of Minnesota (state code - MN), is identified by the zip code 56678.
+The city of Tenstrike, located in the state of Minnesota (state code - MN), is identified by the zip code 56683.
+The city of Waskish, located in the state of Minnesota (state code - MN), is identified by the zip code 56685.
+The city of Wilton, located in the state of Minnesota (state code - MN), is identified by the zip code 56687.
+The city of Foley, located in the state of Minnesota (state code - MN), is identified by the zip code 56329.
+The city of Gilman, located in the state of Minnesota (state code - MN), is identified by the zip code 56333.
+The city of Oak Park, located in the state of Minnesota (state code - MN), is identified by the zip code 56357.
+The city of Rice, located in the state of Minnesota (state code - MN), is identified by the zip code 56367.
+The city of Sauk Rapids, located in the state of Minnesota (state code - MN), is identified by the zip code 56379.
+The city of Barry, located in the state of Minnesota (state code - MN), is identified by the zip code 56210.
+The city of Beardsley, located in the state of Minnesota (state code - MN), is identified by the zip code 56211.
+The city of Clinton, located in the state of Minnesota (state code - MN), is identified by the zip code 56225.
+The city of Correll, located in the state of Minnesota (state code - MN), is identified by the zip code 56227.
+The city of Graceville, located in the state of Minnesota (state code - MN), is identified by the zip code 56240.
+The city of Odessa, located in the state of Minnesota (state code - MN), is identified by the zip code 56276.
+The city of Ortonville, located in the state of Minnesota (state code - MN), is identified by the zip code 56278.
+The city of Mankato, located in the state of Minnesota (state code - MN), is identified by the zip code 56001.
+The city of Mankato, located in the state of Minnesota (state code - MN), is identified by the zip code 56002.
+The city of Amboy, located in the state of Minnesota (state code - MN), is identified by the zip code 56010.
+The city of Eagle Lake, located in the state of Minnesota (state code - MN), is identified by the zip code 56024.
+The city of Garden City, located in the state of Minnesota (state code - MN), is identified by the zip code 56034.
+The city of Good Thunder, located in the state of Minnesota (state code - MN), is identified by the zip code 56037.
+The city of Lake Crystal, located in the state of Minnesota (state code - MN), is identified by the zip code 56055.
+The city of Madison Lake, located in the state of Minnesota (state code - MN), is identified by the zip code 56063.
+The city of Mapleton, located in the state of Minnesota (state code - MN), is identified by the zip code 56065.
+The city of Pemberton, located in the state of Minnesota (state code - MN), is identified by the zip code 56078.
+The city of Saint Clair, located in the state of Minnesota (state code - MN), is identified by the zip code 56080.
+The city of Vernon Center, located in the state of Minnesota (state code - MN), is identified by the zip code 56090.
+The city of Comfrey, located in the state of Minnesota (state code - MN), is identified by the zip code 56019.
+The city of Essig, located in the state of Minnesota (state code - MN), is identified by the zip code 56030.
+The city of Hanska, located in the state of Minnesota (state code - MN), is identified by the zip code 56041.
+The city of New Ulm, located in the state of Minnesota (state code - MN), is identified by the zip code 56073.
+The city of Searles, located in the state of Minnesota (state code - MN), is identified by the zip code 56084.
+The city of Sleepy Eye, located in the state of Minnesota (state code - MN), is identified by the zip code 56085.
+The city of Springfield, located in the state of Minnesota (state code - MN), is identified by the zip code 56087.
+The city of Barnum, located in the state of Minnesota (state code - MN), is identified by the zip code 55707.
+The city of Carlton, located in the state of Minnesota (state code - MN), is identified by the zip code 55718.
+The city of Cloquet, located in the state of Minnesota (state code - MN), is identified by the zip code 55720.
+The city of Cromwell, located in the state of Minnesota (state code - MN), is identified by the zip code 55726.
+The city of Esko, located in the state of Minnesota (state code - MN), is identified by the zip code 55733.
+The city of Holyoke, located in the state of Minnesota (state code - MN), is identified by the zip code 55749.
+The city of Kettle River, located in the state of Minnesota (state code - MN), is identified by the zip code 55757.
+The city of Moose Lake, located in the state of Minnesota (state code - MN), is identified by the zip code 55767.
+The city of Sawyer, located in the state of Minnesota (state code - MN), is identified by the zip code 55780.
+The city of Wrenshall, located in the state of Minnesota (state code - MN), is identified by the zip code 55797.
+The city of Wright, located in the state of Minnesota (state code - MN), is identified by the zip code 55798.
+The city of Carver, located in the state of Minnesota (state code - MN), is identified by the zip code 55315.
+The city of Chanhassen, located in the state of Minnesota (state code - MN), is identified by the zip code 55317.
+The city of Chaska, located in the state of Minnesota (state code - MN), is identified by the zip code 55318.
+The city of Cologne, located in the state of Minnesota (state code - MN), is identified by the zip code 55322.
+The city of Hamburg, located in the state of Minnesota (state code - MN), is identified by the zip code 55339.
+The city of Mayer, located in the state of Minnesota (state code - MN), is identified by the zip code 55360.
+The city of New Germany, located in the state of Minnesota (state code - MN), is identified by the zip code 55367.
+The city of Norwood Young America, located in the state of Minnesota (state code - MN), is identified by the zip code 55368.
+The city of Norwood, located in the state of Minnesota (state code - MN), is identified by the zip code 55383.
+The city of Victoria, located in the state of Minnesota (state code - MN), is identified by the zip code 55386.
+The city of Waconia, located in the state of Minnesota (state code - MN), is identified by the zip code 55387.
+The city of Watertown, located in the state of Minnesota (state code - MN), is identified by the zip code 55388.
+The city of Young America, located in the state of Minnesota (state code - MN), is identified by the zip code 55397.
+The city of Minneapolis, located in the state of Minnesota (state code - MN), is identified by the zip code 55473.
+The city of Young America, located in the state of Minnesota (state code - MN), is identified by the zip code 55550.
+The city of Young America, located in the state of Minnesota (state code - MN), is identified by the zip code 55551.
+The city of Young America, located in the state of Minnesota (state code - MN), is identified by the zip code 55553.
+The city of Norwood, located in the state of Minnesota (state code - MN), is identified by the zip code 55554.
+The city of Young America, located in the state of Minnesota (state code - MN), is identified by the zip code 55558.
+The city of Young America, located in the state of Minnesota (state code - MN), is identified by the zip code 55568.
+The city of Norwood, located in the state of Minnesota (state code - MN), is identified by the zip code 55583.
+The city of Young America, located in the state of Minnesota (state code - MN), is identified by the zip code 55594.
+The city of Ah Gwah Ching, located in the state of Minnesota (state code - MN), is identified by the zip code 56430.
+The city of Backus, located in the state of Minnesota (state code - MN), is identified by the zip code 56435.
+The city of Hackensack, located in the state of Minnesota (state code - MN), is identified by the zip code 56452.
+The city of Pillager, located in the state of Minnesota (state code - MN), is identified by the zip code 56473.
+The city of Pine River, located in the state of Minnesota (state code - MN), is identified by the zip code 56474.
+The city of Walker, located in the state of Minnesota (state code - MN), is identified by the zip code 56484.
+The city of Bena, located in the state of Minnesota (state code - MN), is identified by the zip code 56626.
+The city of Cass Lake, located in the state of Minnesota (state code - MN), is identified by the zip code 56633.
+The city of Federal Dam, located in the state of Minnesota (state code - MN), is identified by the zip code 56641.
+The city of Longville, located in the state of Minnesota (state code - MN), is identified by the zip code 56655.
+The city of Outing, located in the state of Minnesota (state code - MN), is identified by the zip code 56662.
+The city of Remer, located in the state of Minnesota (state code - MN), is identified by the zip code 56672.
+The city of Clara City, located in the state of Minnesota (state code - MN), is identified by the zip code 56222.
+The city of Maynard, located in the state of Minnesota (state code - MN), is identified by the zip code 56260.
+The city of Milan, located in the state of Minnesota (state code - MN), is identified by the zip code 56262.
+The city of Montevideo, located in the state of Minnesota (state code - MN), is identified by the zip code 56265.
+The city of Watson, located in the state of Minnesota (state code - MN), is identified by the zip code 56295.
+The city of Almelund, located in the state of Minnesota (state code - MN), is identified by the zip code 55002.
+The city of Center City, located in the state of Minnesota (state code - MN), is identified by the zip code 55012.
+The city of Chisago City, located in the state of Minnesota (state code - MN), is identified by the zip code 55013.
+The city of Harris, located in the state of Minnesota (state code - MN), is identified by the zip code 55032.
+The city of Lindstrom, located in the state of Minnesota (state code - MN), is identified by the zip code 55045.
+The city of North Branch, located in the state of Minnesota (state code - MN), is identified by the zip code 55056.
+The city of Rush City, located in the state of Minnesota (state code - MN), is identified by the zip code 55069.
+The city of Shafer, located in the state of Minnesota (state code - MN), is identified by the zip code 55074.
+The city of Stacy, located in the state of Minnesota (state code - MN), is identified by the zip code 55078.
+The city of Stacy, located in the state of Minnesota (state code - MN), is identified by the zip code 55079.
+The city of Taylors Falls, located in the state of Minnesota (state code - MN), is identified by the zip code 55084.
+The city of Wyoming, located in the state of Minnesota (state code - MN), is identified by the zip code 55092.
+The city of Barnesville, located in the state of Minnesota (state code - MN), is identified by the zip code 56514.
+The city of Comstock, located in the state of Minnesota (state code - MN), is identified by the zip code 56525.
+The city of Dilworth, located in the state of Minnesota (state code - MN), is identified by the zip code 56529.
+The city of Felton, located in the state of Minnesota (state code - MN), is identified by the zip code 56536.
+The city of Georgetown, located in the state of Minnesota (state code - MN), is identified by the zip code 56546.
+The city of Glyndon, located in the state of Minnesota (state code - MN), is identified by the zip code 56547.
+The city of Hawley, located in the state of Minnesota (state code - MN), is identified by the zip code 56549.
+The city of Hitterdal, located in the state of Minnesota (state code - MN), is identified by the zip code 56552.
+The city of Moorhead, located in the state of Minnesota (state code - MN), is identified by the zip code 56560.
+The city of Moorhead, located in the state of Minnesota (state code - MN), is identified by the zip code 56561.
+The city of Moorhead, located in the state of Minnesota (state code - MN), is identified by the zip code 56562.
+The city of Moorhead, located in the state of Minnesota (state code - MN), is identified by the zip code 56563.
+The city of Sabin, located in the state of Minnesota (state code - MN), is identified by the zip code 56580.
+The city of Ulen, located in the state of Minnesota (state code - MN), is identified by the zip code 56585.
+The city of Bagley, located in the state of Minnesota (state code - MN), is identified by the zip code 56621.
+The city of Clearbrook, located in the state of Minnesota (state code - MN), is identified by the zip code 56634.
+The city of Gonvick, located in the state of Minnesota (state code - MN), is identified by the zip code 56644.
+The city of Leonard, located in the state of Minnesota (state code - MN), is identified by the zip code 56652.
+The city of Shevlin, located in the state of Minnesota (state code - MN), is identified by the zip code 56676.
+The city of Grand Marais, located in the state of Minnesota (state code - MN), is identified by the zip code 55604.
+The city of Grand Portage, located in the state of Minnesota (state code - MN), is identified by the zip code 55605.
+The city of Hovland, located in the state of Minnesota (state code - MN), is identified by the zip code 55606.
+The city of Lutsen, located in the state of Minnesota (state code - MN), is identified by the zip code 55612.
+The city of Schroeder, located in the state of Minnesota (state code - MN), is identified by the zip code 55613.
+The city of Tofte, located in the state of Minnesota (state code - MN), is identified by the zip code 55615.
+The city of Windom, located in the state of Minnesota (state code - MN), is identified by the zip code 56101.
+The city of Bingham Lake, located in the state of Minnesota (state code - MN), is identified by the zip code 56118.
+The city of Jeffers, located in the state of Minnesota (state code - MN), is identified by the zip code 56145.
+The city of Mountain Lake, located in the state of Minnesota (state code - MN), is identified by the zip code 56159.
+The city of Storden, located in the state of Minnesota (state code - MN), is identified by the zip code 56174.
+The city of Westbrook, located in the state of Minnesota (state code - MN), is identified by the zip code 56183.
+The city of Brainerd, located in the state of Minnesota (state code - MN), is identified by the zip code 56401.
+The city of Baxter, located in the state of Minnesota (state code - MN), is identified by the zip code 56425.
+The city of Crosby, located in the state of Minnesota (state code - MN), is identified by the zip code 56441.
+The city of Crosslake, located in the state of Minnesota (state code - MN), is identified by the zip code 56442.
+The city of Deerwood, located in the state of Minnesota (state code - MN), is identified by the zip code 56444.
+The city of Emily, located in the state of Minnesota (state code - MN), is identified by the zip code 56447.
+The city of Fifty Lakes, located in the state of Minnesota (state code - MN), is identified by the zip code 56448.
+The city of Fort Ripley, located in the state of Minnesota (state code - MN), is identified by the zip code 56449.
+The city of Garrison, located in the state of Minnesota (state code - MN), is identified by the zip code 56450.
+The city of Ironton, located in the state of Minnesota (state code - MN), is identified by the zip code 56455.
+The city of Jenkins, located in the state of Minnesota (state code - MN), is identified by the zip code 56456.
+The city of Lake Hubert, located in the state of Minnesota (state code - MN), is identified by the zip code 56459.
+The city of Merrifield, located in the state of Minnesota (state code - MN), is identified by the zip code 56465.
+The city of Nisswa, located in the state of Minnesota (state code - MN), is identified by the zip code 56468.
+The city of Pequot Lakes, located in the state of Minnesota (state code - MN), is identified by the zip code 56472.
+The city of Castle Rock, located in the state of Minnesota (state code - MN), is identified by the zip code 55010.
+The city of Farmington, located in the state of Minnesota (state code - MN), is identified by the zip code 55024.
+The city of Hampton, located in the state of Minnesota (state code - MN), is identified by the zip code 55031.
+The city of Hastings, located in the state of Minnesota (state code - MN), is identified by the zip code 55033.
+The city of Lakeville, located in the state of Minnesota (state code - MN), is identified by the zip code 55044.
+The city of Randolph, located in the state of Minnesota (state code - MN), is identified by the zip code 55065.
+The city of Rosemount, located in the state of Minnesota (state code - MN), is identified by the zip code 55068.
+The city of South Saint Paul, located in the state of Minnesota (state code - MN), is identified by the zip code 55075.
+The city of Inver Grove Heights, located in the state of Minnesota (state code - MN), is identified by the zip code 55076.
+The city of Inver Grove Heights, located in the state of Minnesota (state code - MN), is identified by the zip code 55077.
+The city of Vermillion, located in the state of Minnesota (state code - MN), is identified by the zip code 55085.
+The city of Saint Paul, located in the state of Minnesota (state code - MN), is identified by the zip code 55118.
+The city of Saint Paul, located in the state of Minnesota (state code - MN), is identified by the zip code 55120.
+The city of Saint Paul, located in the state of Minnesota (state code - MN), is identified by the zip code 55121.
+The city of Saint Paul, located in the state of Minnesota (state code - MN), is identified by the zip code 55122.
+The city of Saint Paul, located in the state of Minnesota (state code - MN), is identified by the zip code 55123.
+The city of Saint Paul, located in the state of Minnesota (state code - MN), is identified by the zip code 55124.
+The city of Mendota, located in the state of Minnesota (state code - MN), is identified by the zip code 55150.
+The city of Burnsville, located in the state of Minnesota (state code - MN), is identified by the zip code 55306.
+The city of Burnsville, located in the state of Minnesota (state code - MN), is identified by the zip code 55337.
+The city of Claremont, located in the state of Minnesota (state code - MN), is identified by the zip code 55924.
+The city of Dodge Center, located in the state of Minnesota (state code - MN), is identified by the zip code 55927.
+The city of Hayfield, located in the state of Minnesota (state code - MN), is identified by the zip code 55940.
+The city of Kasson, located in the state of Minnesota (state code - MN), is identified by the zip code 55944.
+The city of Mantorville, located in the state of Minnesota (state code - MN), is identified by the zip code 55955.
+The city of West Concord, located in the state of Minnesota (state code - MN), is identified by the zip code 55985.
+The city of Alexandria, located in the state of Minnesota (state code - MN), is identified by the zip code 56308.
+The city of Brandon, located in the state of Minnesota (state code - MN), is identified by the zip code 56315.
+The city of Carlos, located in the state of Minnesota (state code - MN), is identified by the zip code 56319.
+The city of Evansville, located in the state of Minnesota (state code - MN), is identified by the zip code 56326.
+The city of Garfield, located in the state of Minnesota (state code - MN), is identified by the zip code 56332.
+The city of Holmes City, located in the state of Minnesota (state code - MN), is identified by the zip code 56341.
+The city of Kensington, located in the state of Minnesota (state code - MN), is identified by the zip code 56343.
+The city of Miltona, located in the state of Minnesota (state code - MN), is identified by the zip code 56354.
+The city of Nelson, located in the state of Minnesota (state code - MN), is identified by the zip code 56355.
+The city of Osakis, located in the state of Minnesota (state code - MN), is identified by the zip code 56360.
+The city of Blue Earth, located in the state of Minnesota (state code - MN), is identified by the zip code 56013.
+The city of Bricelyn, located in the state of Minnesota (state code - MN), is identified by the zip code 56014.
+The city of Delavan, located in the state of Minnesota (state code - MN), is identified by the zip code 56023.
+The city of Easton, located in the state of Minnesota (state code - MN), is identified by the zip code 56025.
+The city of Elmore, located in the state of Minnesota (state code - MN), is identified by the zip code 56027.
+The city of Frost, located in the state of Minnesota (state code - MN), is identified by the zip code 56033.
+The city of Huntley, located in the state of Minnesota (state code - MN), is identified by the zip code 56047.
+The city of Kiester, located in the state of Minnesota (state code - MN), is identified by the zip code 56051.
+The city of Minnesota Lake, located in the state of Minnesota (state code - MN), is identified by the zip code 56068.
+The city of Wells, located in the state of Minnesota (state code - MN), is identified by the zip code 56097.
+The city of Winnebago, located in the state of Minnesota (state code - MN), is identified by the zip code 56098.
+The city of Canton, located in the state of Minnesota (state code - MN), is identified by the zip code 55922.
+The city of Chatfield, located in the state of Minnesota (state code - MN), is identified by the zip code 55923.
+The city of Fountain, located in the state of Minnesota (state code - MN), is identified by the zip code 55935.
+The city of Harmony, located in the state of Minnesota (state code - MN), is identified by the zip code 55939.
+The city of Lanesboro, located in the state of Minnesota (state code - MN), is identified by the zip code 55949.
+The city of Mabel, located in the state of Minnesota (state code - MN), is identified by the zip code 55954.
+The city of Ostrander, located in the state of Minnesota (state code - MN), is identified by the zip code 55961.
+The city of Peterson, located in the state of Minnesota (state code - MN), is identified by the zip code 55962.
+The city of Preston, located in the state of Minnesota (state code - MN), is identified by the zip code 55965.
+The city of Rushford, located in the state of Minnesota (state code - MN), is identified by the zip code 55971.
+The city of Spring Valley, located in the state of Minnesota (state code - MN), is identified by the zip code 55975.
+The city of Wykoff, located in the state of Minnesota (state code - MN), is identified by the zip code 55990.
+The city of Albert Lea, located in the state of Minnesota (state code - MN), is identified by the zip code 56007.
+The city of Alden, located in the state of Minnesota (state code - MN), is identified by the zip code 56009.
+The city of Clarks Grove, located in the state of Minnesota (state code - MN), is identified by the zip code 56016.
+The city of Conger, located in the state of Minnesota (state code - MN), is identified by the zip code 56020.
+The city of Emmons, located in the state of Minnesota (state code - MN), is identified by the zip code 56029.
+The city of Freeborn, located in the state of Minnesota (state code - MN), is identified by the zip code 56032.
+The city of Geneva, located in the state of Minnesota (state code - MN), is identified by the zip code 56035.
+The city of Glenville, located in the state of Minnesota (state code - MN), is identified by the zip code 56036.
+The city of Hartland, located in the state of Minnesota (state code - MN), is identified by the zip code 56042.
+The city of Hayward, located in the state of Minnesota (state code - MN), is identified by the zip code 56043.
+The city of Hollandale, located in the state of Minnesota (state code - MN), is identified by the zip code 56045.
+The city of Twin Lakes, located in the state of Minnesota (state code - MN), is identified by the zip code 56089.
+The city of Cannon Falls, located in the state of Minnesota (state code - MN), is identified by the zip code 55009.
+The city of Dennison, located in the state of Minnesota (state code - MN), is identified by the zip code 55018.
+The city of Frontenac, located in the state of Minnesota (state code - MN), is identified by the zip code 55026.
+The city of Goodhue, located in the state of Minnesota (state code - MN), is identified by the zip code 55027.
+The city of Red Wing, located in the state of Minnesota (state code - MN), is identified by the zip code 55066.
+The city of Welch, located in the state of Minnesota (state code - MN), is identified by the zip code 55089.
+The city of Kenyon, located in the state of Minnesota (state code - MN), is identified by the zip code 55946.
+The city of Pine Island, located in the state of Minnesota (state code - MN), is identified by the zip code 55963.
+The city of Wanamingo, located in the state of Minnesota (state code - MN), is identified by the zip code 55983.
+The city of Zumbrota, located in the state of Minnesota (state code - MN), is identified by the zip code 55992.
+The city of Herman, located in the state of Minnesota (state code - MN), is identified by the zip code 56248.
+The city of Norcross, located in the state of Minnesota (state code - MN), is identified by the zip code 56274.
+The city of Ashby, located in the state of Minnesota (state code - MN), is identified by the zip code 56309.
+The city of Barrett, located in the state of Minnesota (state code - MN), is identified by the zip code 56311.
+The city of Hoffman, located in the state of Minnesota (state code - MN), is identified by the zip code 56339.
+The city of Elbow Lake, located in the state of Minnesota (state code - MN), is identified by the zip code 56531.
+The city of Wendell, located in the state of Minnesota (state code - MN), is identified by the zip code 56590.
+The city of Saint Paul, located in the state of Minnesota (state code - MN), is identified by the zip code 55111.
+The city of Hopkins, located in the state of Minnesota (state code - MN), is identified by the zip code 55305.
+The city of Maple Grove, located in the state of Minnesota (state code - MN), is identified by the zip code 55311.
+The city of Champlin, located in the state of Minnesota (state code - MN), is identified by the zip code 55316.
+The city of Crystal Bay, located in the state of Minnesota (state code - MN), is identified by the zip code 55323.
+The city of Dayton, located in the state of Minnesota (state code - MN), is identified by the zip code 55327.
+The city of Excelsior, located in the state of Minnesota (state code - MN), is identified by the zip code 55331.
+The city of Hamel, located in the state of Minnesota (state code - MN), is identified by the zip code 55340.
+The city of Hopkins, located in the state of Minnesota (state code - MN), is identified by the zip code 55343.
+The city of Eden Prairie, located in the state of Minnesota (state code - MN), is identified by the zip code 55344.
+The city of Minnetonka, located in the state of Minnesota (state code - MN), is identified by the zip code 55345.
+The city of Eden Prairie, located in the state of Minnesota (state code - MN), is identified by the zip code 55346.
+The city of Eden Prairie, located in the state of Minnesota (state code - MN), is identified by the zip code 55347.
+The city of Maple Plain, located in the state of Minnesota (state code - MN), is identified by the zip code 55348.
+The city of Long Lake, located in the state of Minnesota (state code - MN), is identified by the zip code 55356.
+The city of Loretto, located in the state of Minnesota (state code - MN), is identified by the zip code 55357.
+The city of Maple Plain, located in the state of Minnesota (state code - MN), is identified by the zip code 55359.
+The city of Minnetonka Beach, located in the state of Minnesota (state code - MN), is identified by the zip code 55361.
+The city of Mound, located in the state of Minnesota (state code - MN), is identified by the zip code 55364.
+The city of Osseo, located in the state of Minnesota (state code - MN), is identified by the zip code 55369.
+The city of Rogers, located in the state of Minnesota (state code - MN), is identified by the zip code 55374.
+The city of Saint Bonifacius, located in the state of Minnesota (state code - MN), is identified by the zip code 55375.
+The city of Spring Park, located in the state of Minnesota (state code - MN), is identified by the zip code 55384.
+The city of Wayzata, located in the state of Minnesota (state code - MN), is identified by the zip code 55391.
+The city of Navarre, located in the state of Minnesota (state code - MN), is identified by the zip code 55392.
+The city of Minneapolis, located in the state of Minnesota (state code - MN), is identified by the zip code 55401.
+The city of Minneapolis, located in the state of Minnesota (state code - MN), is identified by the zip code 55402.
+The city of Minneapolis, located in the state of Minnesota (state code - MN), is identified by the zip code 55403.
+The city of Minneapolis, located in the state of Minnesota (state code - MN), is identified by the zip code 55404.
+The city of Minneapolis, located in the state of Minnesota (state code - MN), is identified by the zip code 55405.
+The city of Minneapolis, located in the state of Minnesota (state code - MN), is identified by the zip code 55406.
+The city of Minneapolis, located in the state of Minnesota (state code - MN), is identified by the zip code 55407.
+The city of Minneapolis, located in the state of Minnesota (state code - MN), is identified by the zip code 55408.
+The city of Minneapolis, located in the state of Minnesota (state code - MN), is identified by the zip code 55409.
+The city of Minneapolis, located in the state of Minnesota (state code - MN), is identified by the zip code 55410.
+The city of Minneapolis, located in the state of Minnesota (state code - MN), is identified by the zip code 55411.
+The city of Minneapolis, located in the state of Minnesota (state code - MN), is identified by the zip code 55412.
+The city of Minneapolis, located in the state of Minnesota (state code - MN), is identified by the zip code 55413.
+The city of Minneapolis, located in the state of Minnesota (state code - MN), is identified by the zip code 55414.
+The city of Minneapolis, located in the state of Minnesota (state code - MN), is identified by the zip code 55415.
+The city of Minneapolis, located in the state of Minnesota (state code - MN), is identified by the zip code 55416.
+The city of Minneapolis, located in the state of Minnesota (state code - MN), is identified by the zip code 55417.
+The city of Minneapolis, located in the state of Minnesota (state code - MN), is identified by the zip code 55418.
+The city of Minneapolis, located in the state of Minnesota (state code - MN), is identified by the zip code 55419.
+The city of Minneapolis, located in the state of Minnesota (state code - MN), is identified by the zip code 55420.
+The city of Minneapolis, located in the state of Minnesota (state code - MN), is identified by the zip code 55422.
+The city of Minneapolis, located in the state of Minnesota (state code - MN), is identified by the zip code 55423.
+The city of Minneapolis, located in the state of Minnesota (state code - MN), is identified by the zip code 55424.
+The city of Minneapolis, located in the state of Minnesota (state code - MN), is identified by the zip code 55425.
+The city of Minneapolis, located in the state of Minnesota (state code - MN), is identified by the zip code 55426.
+The city of Minneapolis, located in the state of Minnesota (state code - MN), is identified by the zip code 55427.
+The city of Minneapolis, located in the state of Minnesota (state code - MN), is identified by the zip code 55428.
+The city of Minneapolis, located in the state of Minnesota (state code - MN), is identified by the zip code 55429.
+The city of Minneapolis, located in the state of Minnesota (state code - MN), is identified by the zip code 55430.
+The city of Minneapolis, located in the state of Minnesota (state code - MN), is identified by the zip code 55431.
+The city of Minneapolis, located in the state of Minnesota (state code - MN), is identified by the zip code 55435.
+The city of Minneapolis, located in the state of Minnesota (state code - MN), is identified by the zip code 55436.
+The city of Minneapolis, located in the state of Minnesota (state code - MN), is identified by the zip code 55437.
+The city of Minneapolis, located in the state of Minnesota (state code - MN), is identified by the zip code 55438.
+The city of Minneapolis, located in the state of Minnesota (state code - MN), is identified by the zip code 55439.
+The city of Minneapolis, located in the state of Minnesota (state code - MN), is identified by the zip code 55440.
+The city of Minneapolis, located in the state of Minnesota (state code - MN), is identified by the zip code 55441.
+The city of Minneapolis, located in the state of Minnesota (state code - MN), is identified by the zip code 55442.
+The city of Minneapolis, located in the state of Minnesota (state code - MN), is identified by the zip code 55443.
+The city of Minneapolis, located in the state of Minnesota (state code - MN), is identified by the zip code 55444.
+The city of Minneapolis, located in the state of Minnesota (state code - MN), is identified by the zip code 55445.
+The city of Minneapolis, located in the state of Minnesota (state code - MN), is identified by the zip code 55446.
+The city of Minneapolis, located in the state of Minnesota (state code - MN), is identified by the zip code 55447.
+The city of Minneapolis, located in the state of Minnesota (state code - MN), is identified by the zip code 55450.
+The city of Minneapolis, located in the state of Minnesota (state code - MN), is identified by the zip code 55454.
+The city of Minneapolis, located in the state of Minnesota (state code - MN), is identified by the zip code 55455.
+The city of Minneapolis, located in the state of Minnesota (state code - MN), is identified by the zip code 55458.
+The city of Minneapolis, located in the state of Minnesota (state code - MN), is identified by the zip code 55459.
+The city of Minneapolis, located in the state of Minnesota (state code - MN), is identified by the zip code 55460.
+The city of Minneapolis, located in the state of Minnesota (state code - MN), is identified by the zip code 55467.
+The city of Minneapolis, located in the state of Minnesota (state code - MN), is identified by the zip code 55470.
+The city of Minneapolis, located in the state of Minnesota (state code - MN), is identified by the zip code 55472.
+The city of Minneapolis, located in the state of Minnesota (state code - MN), is identified by the zip code 55474.
+The city of Minneapolis, located in the state of Minnesota (state code - MN), is identified by the zip code 55478.
+The city of Minneapolis, located in the state of Minnesota (state code - MN), is identified by the zip code 55479.
+The city of Minneapolis, located in the state of Minnesota (state code - MN), is identified by the zip code 55480.
+The city of Minneapolis, located in the state of Minnesota (state code - MN), is identified by the zip code 55483.
+The city of Minneapolis, located in the state of Minnesota (state code - MN), is identified by the zip code 55484.
+The city of Minneapolis, located in the state of Minnesota (state code - MN), is identified by the zip code 55485.
+The city of Minneapolis, located in the state of Minnesota (state code - MN), is identified by the zip code 55486.
+The city of Minneapolis, located in the state of Minnesota (state code - MN), is identified by the zip code 55487.
+The city of Minneapolis, located in the state of Minnesota (state code - MN), is identified by the zip code 55488.
+The city of Osseo, located in the state of Minnesota (state code - MN), is identified by the zip code 55569.
+The city of Maple Plain, located in the state of Minnesota (state code - MN), is identified by the zip code 55570.
+The city of Maple Plain, located in the state of Minnesota (state code - MN), is identified by the zip code 55571.
+The city of Rockford, located in the state of Minnesota (state code - MN), is identified by the zip code 55572.
+The city of Young America, located in the state of Minnesota (state code - MN), is identified by the zip code 55573.
+The city of Maple Plain, located in the state of Minnesota (state code - MN), is identified by the zip code 55574.
+The city of Howard Lake, located in the state of Minnesota (state code - MN), is identified by the zip code 55575.
+The city of Maple Plain, located in the state of Minnesota (state code - MN), is identified by the zip code 55576.
+The city of Maple Plain, located in the state of Minnesota (state code - MN), is identified by the zip code 55577.
+The city of Maple Plain, located in the state of Minnesota (state code - MN), is identified by the zip code 55578.
+The city of Maple Plain, located in the state of Minnesota (state code - MN), is identified by the zip code 55579.
+The city of Maple Plain, located in the state of Minnesota (state code - MN), is identified by the zip code 55593.
+The city of Loretto, located in the state of Minnesota (state code - MN), is identified by the zip code 55595.
+The city of Loretto, located in the state of Minnesota (state code - MN), is identified by the zip code 55596.
+The city of Loretto, located in the state of Minnesota (state code - MN), is identified by the zip code 55597.
+The city of Loretto, located in the state of Minnesota (state code - MN), is identified by the zip code 55598.
+The city of Loretto, located in the state of Minnesota (state code - MN), is identified by the zip code 55599.
+The city of Brownsville, located in the state of Minnesota (state code - MN), is identified by the zip code 55919.
+The city of Caledonia, located in the state of Minnesota (state code - MN), is identified by the zip code 55921.
+The city of Eitzen, located in the state of Minnesota (state code - MN), is identified by the zip code 55931.
+The city of Hokah, located in the state of Minnesota (state code - MN), is identified by the zip code 55941.
+The city of Houston, located in the state of Minnesota (state code - MN), is identified by the zip code 55943.
+The city of La Crescent, located in the state of Minnesota (state code - MN), is identified by the zip code 55947.
+The city of Spring Grove, located in the state of Minnesota (state code - MN), is identified by the zip code 55974.
+The city of Akeley, located in the state of Minnesota (state code - MN), is identified by the zip code 56433.
+The city of Benedict, located in the state of Minnesota (state code - MN), is identified by the zip code 56436.
+The city of Lake George, located in the state of Minnesota (state code - MN), is identified by the zip code 56458.
+The city of Laporte, located in the state of Minnesota (state code - MN), is identified by the zip code 56461.
+The city of Nevis, located in the state of Minnesota (state code - MN), is identified by the zip code 56467.
+The city of Park Rapids, located in the state of Minnesota (state code - MN), is identified by the zip code 56470.
+The city of Braham, located in the state of Minnesota (state code - MN), is identified by the zip code 55006.
+The city of Cambridge, located in the state of Minnesota (state code - MN), is identified by the zip code 55008.
+The city of Dalbo, located in the state of Minnesota (state code - MN), is identified by the zip code 55017.
+The city of Grandy, located in the state of Minnesota (state code - MN), is identified by the zip code 55029.
+The city of Isanti, located in the state of Minnesota (state code - MN), is identified by the zip code 55040.
+The city of Stanchfield, located in the state of Minnesota (state code - MN), is identified by the zip code 55080.
+The city of Bovey, located in the state of Minnesota (state code - MN), is identified by the zip code 55709.
+The city of Calumet, located in the state of Minnesota (state code - MN), is identified by the zip code 55716.
+The city of Cohasset, located in the state of Minnesota (state code - MN), is identified by the zip code 55721.
+The city of Coleraine, located in the state of Minnesota (state code - MN), is identified by the zip code 55722.
+The city of Grand Rapids, located in the state of Minnesota (state code - MN), is identified by the zip code 55730.
+The city of Goodland, located in the state of Minnesota (state code - MN), is identified by the zip code 55742.
+The city of Grand Rapids, located in the state of Minnesota (state code - MN), is identified by the zip code 55744.
+The city of Grand Rapids, located in the state of Minnesota (state code - MN), is identified by the zip code 55745.
+The city of Keewatin, located in the state of Minnesota (state code - MN), is identified by the zip code 55753.
+The city of Marble, located in the state of Minnesota (state code - MN), is identified by the zip code 55764.
+The city of Nashwauk, located in the state of Minnesota (state code - MN), is identified by the zip code 55769.
+The city of Pengilly, located in the state of Minnesota (state code - MN), is identified by the zip code 55775.
+The city of Swan River, located in the state of Minnesota (state code - MN), is identified by the zip code 55784.
+The city of Taconite, located in the state of Minnesota (state code - MN), is identified by the zip code 55786.
+The city of Warba, located in the state of Minnesota (state code - MN), is identified by the zip code 55793.
+The city of Bigfork, located in the state of Minnesota (state code - MN), is identified by the zip code 56628.
+The city of Bowstring, located in the state of Minnesota (state code - MN), is identified by the zip code 56631.
+The city of Deer River, located in the state of Minnesota (state code - MN), is identified by the zip code 56636.
+The city of Talmoon, located in the state of Minnesota (state code - MN), is identified by the zip code 56637.
+The city of Effie, located in the state of Minnesota (state code - MN), is identified by the zip code 56639.
+The city of Marcell, located in the state of Minnesota (state code - MN), is identified by the zip code 56657.
+The city of Max, located in the state of Minnesota (state code - MN), is identified by the zip code 56659.
+The city of Spring Lake, located in the state of Minnesota (state code - MN), is identified by the zip code 56680.
+The city of Squaw Lake, located in the state of Minnesota (state code - MN), is identified by the zip code 56681.
+The city of Wirt, located in the state of Minnesota (state code - MN), is identified by the zip code 56688.
+The city of Alpha, located in the state of Minnesota (state code - MN), is identified by the zip code 56111.
+The city of Heron Lake, located in the state of Minnesota (state code - MN), is identified by the zip code 56137.
+The city of Jackson, located in the state of Minnesota (state code - MN), is identified by the zip code 56143.
+The city of Lakefield, located in the state of Minnesota (state code - MN), is identified by the zip code 56150.
+The city of Okabena, located in the state of Minnesota (state code - MN), is identified by the zip code 56161.
+The city of Mora, located in the state of Minnesota (state code - MN), is identified by the zip code 55051.
+The city of Ogilvie, located in the state of Minnesota (state code - MN), is identified by the zip code 56358.
+The city of Willmar, located in the state of Minnesota (state code - MN), is identified by the zip code 56201.
+The city of Atwater, located in the state of Minnesota (state code - MN), is identified by the zip code 56209.
+The city of Blomkest, located in the state of Minnesota (state code - MN), is identified by the zip code 56216.
+The city of Kandiyohi, located in the state of Minnesota (state code - MN), is identified by the zip code 56251.
+The city of Lake Lillian, located in the state of Minnesota (state code - MN), is identified by the zip code 56253.
+The city of New London, located in the state of Minnesota (state code - MN), is identified by the zip code 56273.
+The city of Pennock, located in the state of Minnesota (state code - MN), is identified by the zip code 56279.
+The city of Prinsburg, located in the state of Minnesota (state code - MN), is identified by the zip code 56281.
+The city of Raymond, located in the state of Minnesota (state code - MN), is identified by the zip code 56282.
+The city of Spicer, located in the state of Minnesota (state code - MN), is identified by the zip code 56288.
+The city of Sunburg, located in the state of Minnesota (state code - MN), is identified by the zip code 56289.
+The city of Donaldson, located in the state of Minnesota (state code - MN), is identified by the zip code 56720.
+The city of Hallock, located in the state of Minnesota (state code - MN), is identified by the zip code 56728.
+The city of Halma, located in the state of Minnesota (state code - MN), is identified by the zip code 56729.
+The city of Humboldt, located in the state of Minnesota (state code - MN), is identified by the zip code 56731.
+The city of Karlstad, located in the state of Minnesota (state code - MN), is identified by the zip code 56732.
+The city of Kennedy, located in the state of Minnesota (state code - MN), is identified by the zip code 56733.
+The city of Lake Bronson, located in the state of Minnesota (state code - MN), is identified by the zip code 56734.
+The city of Lancaster, located in the state of Minnesota (state code - MN), is identified by the zip code 56735.
+The city of Noyes, located in the state of Minnesota (state code - MN), is identified by the zip code 56740.
+The city of Saint Vincent, located in the state of Minnesota (state code - MN), is identified by the zip code 56755.
+The city of Big Falls, located in the state of Minnesota (state code - MN), is identified by the zip code 56627.
+The city of Birchdale, located in the state of Minnesota (state code - MN), is identified by the zip code 56629.
+The city of International Falls, located in the state of Minnesota (state code - MN), is identified by the zip code 56649.
+The city of Littlefork, located in the state of Minnesota (state code - MN), is identified by the zip code 56653.
+The city of Loman, located in the state of Minnesota (state code - MN), is identified by the zip code 56654.
+The city of Margie, located in the state of Minnesota (state code - MN), is identified by the zip code 56658.
+The city of Mizpah, located in the state of Minnesota (state code - MN), is identified by the zip code 56660.
+The city of Northome, located in the state of Minnesota (state code - MN), is identified by the zip code 56661.
+The city of Ranier, located in the state of Minnesota (state code - MN), is identified by the zip code 56668.
+The city of Kabetogama, located in the state of Minnesota (state code - MN), is identified by the zip code 56669.
+The city of South International Falls, located in the state of Minnesota (state code - MN), is identified by the zip code 56679.
+The city of Bellingham, located in the state of Minnesota (state code - MN), is identified by the zip code 56212.
+The city of Boyd, located in the state of Minnesota (state code - MN), is identified by the zip code 56218.
+The city of Dawson, located in the state of Minnesota (state code - MN), is identified by the zip code 56232.
+The city of Madison, located in the state of Minnesota (state code - MN), is identified by the zip code 56256.
+The city of Marietta, located in the state of Minnesota (state code - MN), is identified by the zip code 56257.
+The city of Beaver Bay, located in the state of Minnesota (state code - MN), is identified by the zip code 55601.
+The city of Finland, located in the state of Minnesota (state code - MN), is identified by the zip code 55603.
+The city of Isabella, located in the state of Minnesota (state code - MN), is identified by the zip code 55607.
+The city of Knife River, located in the state of Minnesota (state code - MN), is identified by the zip code 55609.
+The city of Silver Bay, located in the state of Minnesota (state code - MN), is identified by the zip code 55614.
+The city of Two Harbors, located in the state of Minnesota (state code - MN), is identified by the zip code 55616.
+The city of Baudette, located in the state of Minnesota (state code - MN), is identified by the zip code 56623.
+The city of Williams, located in the state of Minnesota (state code - MN), is identified by the zip code 56686.
+The city of Angle Inlet, located in the state of Minnesota (state code - MN), is identified by the zip code 56711.
+The city of Oak Island, located in the state of Minnesota (state code - MN), is identified by the zip code 56741.
+The city of Cleveland, located in the state of Minnesota (state code - MN), is identified by the zip code 56017.
+The city of Elysian, located in the state of Minnesota (state code - MN), is identified by the zip code 56028.
+The city of Kasota, located in the state of Minnesota (state code - MN), is identified by the zip code 56050.
+The city of Kilkenny, located in the state of Minnesota (state code - MN), is identified by the zip code 56052.
+The city of Le Center, located in the state of Minnesota (state code - MN), is identified by the zip code 56057.
+The city of Le Sueur, located in the state of Minnesota (state code - MN), is identified by the zip code 56058.
+The city of Montgomery, located in the state of Minnesota (state code - MN), is identified by the zip code 56069.
+The city of New Prague, located in the state of Minnesota (state code - MN), is identified by the zip code 56071.
+The city of Waterville, located in the state of Minnesota (state code - MN), is identified by the zip code 56096.
+The city of Arco, located in the state of Minnesota (state code - MN), is identified by the zip code 56113.
+The city of Hendricks, located in the state of Minnesota (state code - MN), is identified by the zip code 56136.
+The city of Ivanhoe, located in the state of Minnesota (state code - MN), is identified by the zip code 56142.
+The city of Lake Benton, located in the state of Minnesota (state code - MN), is identified by the zip code 56149.
+The city of Tyler, located in the state of Minnesota (state code - MN), is identified by the zip code 56178.
+The city of Balaton, located in the state of Minnesota (state code - MN), is identified by the zip code 56115.
+The city of Garvin, located in the state of Minnesota (state code - MN), is identified by the zip code 56132.
+The city of Lynd, located in the state of Minnesota (state code - MN), is identified by the zip code 56157.
+The city of Russell, located in the state of Minnesota (state code - MN), is identified by the zip code 56169.
+The city of Tracy, located in the state of Minnesota (state code - MN), is identified by the zip code 56175.
+The city of Cottonwood, located in the state of Minnesota (state code - MN), is identified by the zip code 56229.
+The city of Ghent, located in the state of Minnesota (state code - MN), is identified by the zip code 56239.
+The city of Marshall, located in the state of Minnesota (state code - MN), is identified by the zip code 56258.
+The city of Minneota, located in the state of Minnesota (state code - MN), is identified by the zip code 56264.
+The city of Taunton, located in the state of Minnesota (state code - MN), is identified by the zip code 56291.
+The city of Brownton, located in the state of Minnesota (state code - MN), is identified by the zip code 55312.
+The city of Glencoe, located in the state of Minnesota (state code - MN), is identified by the zip code 55336.
+The city of Hutchinson, located in the state of Minnesota (state code - MN), is identified by the zip code 55350.
+The city of Lester Prairie, located in the state of Minnesota (state code - MN), is identified by the zip code 55354.
+The city of Plato, located in the state of Minnesota (state code - MN), is identified by the zip code 55370.
+The city of Silver Lake, located in the state of Minnesota (state code - MN), is identified by the zip code 55381.
+The city of Stewart, located in the state of Minnesota (state code - MN), is identified by the zip code 55385.
+The city of Winsted, located in the state of Minnesota (state code - MN), is identified by the zip code 55395.
+The city of Bejou, located in the state of Minnesota (state code - MN), is identified by the zip code 56516.
+The city of Mahnomen, located in the state of Minnesota (state code - MN), is identified by the zip code 56557.
+The city of Naytahwaush, located in the state of Minnesota (state code - MN), is identified by the zip code 56566.
+The city of Waubun, located in the state of Minnesota (state code - MN), is identified by the zip code 56589.
+The city of Alvarado, located in the state of Minnesota (state code - MN), is identified by the zip code 56710.
+The city of Argyle, located in the state of Minnesota (state code - MN), is identified by the zip code 56713.
+The city of Gatzke, located in the state of Minnesota (state code - MN), is identified by the zip code 56724.
+The city of Grygla, located in the state of Minnesota (state code - MN), is identified by the zip code 56727.
+The city of Middle River, located in the state of Minnesota (state code - MN), is identified by the zip code 56737.
+The city of Newfolden, located in the state of Minnesota (state code - MN), is identified by the zip code 56738.
+The city of Oslo, located in the state of Minnesota (state code - MN), is identified by the zip code 56744.
+The city of Stephen, located in the state of Minnesota (state code - MN), is identified by the zip code 56757.
+The city of Strandquist, located in the state of Minnesota (state code - MN), is identified by the zip code 56758.
+The city of Viking, located in the state of Minnesota (state code - MN), is identified by the zip code 56760.
+The city of Warren, located in the state of Minnesota (state code - MN), is identified by the zip code 56762.
+The city of Fairmont, located in the state of Minnesota (state code - MN), is identified by the zip code 56031.
+The city of Granada, located in the state of Minnesota (state code - MN), is identified by the zip code 56039.
+The city of Northrop, located in the state of Minnesota (state code - MN), is identified by the zip code 56075.
+The city of Truman, located in the state of Minnesota (state code - MN), is identified by the zip code 56088.
+The city of Ceylon, located in the state of Minnesota (state code - MN), is identified by the zip code 56121.
+The city of Dunnell, located in the state of Minnesota (state code - MN), is identified by the zip code 56127.
+The city of Ormsby, located in the state of Minnesota (state code - MN), is identified by the zip code 56162.
+The city of Sherburn, located in the state of Minnesota (state code - MN), is identified by the zip code 56171.
+The city of Trimont, located in the state of Minnesota (state code - MN), is identified by the zip code 56176.
+The city of Welcome, located in the state of Minnesota (state code - MN), is identified by the zip code 56181.
+The city of Darwin, located in the state of Minnesota (state code - MN), is identified by the zip code 55324.
+The city of Dassel, located in the state of Minnesota (state code - MN), is identified by the zip code 55325.
+The city of Eden Valley, located in the state of Minnesota (state code - MN), is identified by the zip code 55329.
+The city of Litchfield, located in the state of Minnesota (state code - MN), is identified by the zip code 55355.
+The city of Watkins, located in the state of Minnesota (state code - MN), is identified by the zip code 55389.
+The city of Cosmos, located in the state of Minnesota (state code - MN), is identified by the zip code 56228.
+The city of Grove City, located in the state of Minnesota (state code - MN), is identified by the zip code 56243.
+The city of Princeton, located in the state of Minnesota (state code - MN), is identified by the zip code 55371.
+The city of Bock, located in the state of Minnesota (state code - MN), is identified by the zip code 56313.
+The city of Foreston, located in the state of Minnesota (state code - MN), is identified by the zip code 56330.
+The city of Isle, located in the state of Minnesota (state code - MN), is identified by the zip code 56342.
+The city of Milaca, located in the state of Minnesota (state code - MN), is identified by the zip code 56353.
+The city of Onamia, located in the state of Minnesota (state code - MN), is identified by the zip code 56359.
+The city of Pease, located in the state of Minnesota (state code - MN), is identified by the zip code 56363.
+The city of Wahkon, located in the state of Minnesota (state code - MN), is identified by the zip code 56386.
+The city of Bowlus, located in the state of Minnesota (state code - MN), is identified by the zip code 56314.
+The city of Buckman, located in the state of Minnesota (state code - MN), is identified by the zip code 56317.
+The city of Flensburg, located in the state of Minnesota (state code - MN), is identified by the zip code 56328.
+The city of Hillman, located in the state of Minnesota (state code - MN), is identified by the zip code 56338.
+The city of Lastrup, located in the state of Minnesota (state code - MN), is identified by the zip code 56344.
+The city of Little Falls, located in the state of Minnesota (state code - MN), is identified by the zip code 56345.
+The city of Pierz, located in the state of Minnesota (state code - MN), is identified by the zip code 56364.
+The city of Royalton, located in the state of Minnesota (state code - MN), is identified by the zip code 56373.
+The city of Swanville, located in the state of Minnesota (state code - MN), is identified by the zip code 56382.
+The city of Upsala, located in the state of Minnesota (state code - MN), is identified by the zip code 56384.
+The city of Waite Park, located in the state of Minnesota (state code - MN), is identified by the zip code 56388.
+The city of Cushing, located in the state of Minnesota (state code - MN), is identified by the zip code 56443.
+The city of Motley, located in the state of Minnesota (state code - MN), is identified by the zip code 56466.
+The city of Randall, located in the state of Minnesota (state code - MN), is identified by the zip code 56475.
+The city of Adams, located in the state of Minnesota (state code - MN), is identified by the zip code 55909.
+The city of Austin, located in the state of Minnesota (state code - MN), is identified by the zip code 55912.
+The city of Brownsdale, located in the state of Minnesota (state code - MN), is identified by the zip code 55918.
+The city of Dexter, located in the state of Minnesota (state code - MN), is identified by the zip code 55926.
+The city of Elkton, located in the state of Minnesota (state code - MN), is identified by the zip code 55933.
+The city of Grand Meadow, located in the state of Minnesota (state code - MN), is identified by the zip code 55936.
+The city of Lansing, located in the state of Minnesota (state code - MN), is identified by the zip code 55950.
+The city of Le Roy, located in the state of Minnesota (state code - MN), is identified by the zip code 55951.
+The city of Lyle, located in the state of Minnesota (state code - MN), is identified by the zip code 55953.
+The city of Racine, located in the state of Minnesota (state code - MN), is identified by the zip code 55967.
+The city of Rose Creek, located in the state of Minnesota (state code - MN), is identified by the zip code 55970.
+The city of Sargeant, located in the state of Minnesota (state code - MN), is identified by the zip code 55973.
+The city of Taopi, located in the state of Minnesota (state code - MN), is identified by the zip code 55977.
+The city of Waltham, located in the state of Minnesota (state code - MN), is identified by the zip code 55982.
+The city of Avoca, located in the state of Minnesota (state code - MN), is identified by the zip code 56114.
+The city of Chandler, located in the state of Minnesota (state code - MN), is identified by the zip code 56122.
+The city of Currie, located in the state of Minnesota (state code - MN), is identified by the zip code 56123.
+The city of Dovray, located in the state of Minnesota (state code - MN), is identified by the zip code 56125.
+The city of Fulda, located in the state of Minnesota (state code - MN), is identified by the zip code 56131.
+The city of Iona, located in the state of Minnesota (state code - MN), is identified by the zip code 56141.
+The city of Lake Wilson, located in the state of Minnesota (state code - MN), is identified by the zip code 56151.
+The city of Slayton, located in the state of Minnesota (state code - MN), is identified by the zip code 56172.
+The city of Mankato, located in the state of Minnesota (state code - MN), is identified by the zip code 56003.
+The city of Courtland, located in the state of Minnesota (state code - MN), is identified by the zip code 56021.
+The city of Lafayette, located in the state of Minnesota (state code - MN), is identified by the zip code 56054.
+The city of Nicollet, located in the state of Minnesota (state code - MN), is identified by the zip code 56074.
+The city of Saint Peter, located in the state of Minnesota (state code - MN), is identified by the zip code 56082.
+The city of Adrian, located in the state of Minnesota (state code - MN), is identified by the zip code 56110.
+The city of Bigelow, located in the state of Minnesota (state code - MN), is identified by the zip code 56117.
+The city of Brewster, located in the state of Minnesota (state code - MN), is identified by the zip code 56119.
+The city of Ellsworth, located in the state of Minnesota (state code - MN), is identified by the zip code 56129.
+The city of Leota, located in the state of Minnesota (state code - MN), is identified by the zip code 56153.
+The city of Lismore, located in the state of Minnesota (state code - MN), is identified by the zip code 56155.
+The city of Reading, located in the state of Minnesota (state code - MN), is identified by the zip code 56165.
+The city of Round Lake, located in the state of Minnesota (state code - MN), is identified by the zip code 56167.
+The city of Rushmore, located in the state of Minnesota (state code - MN), is identified by the zip code 56168.
+The city of Wilmont, located in the state of Minnesota (state code - MN), is identified by the zip code 56185.
+The city of Worthington, located in the state of Minnesota (state code - MN), is identified by the zip code 56187.
+The city of Ada, located in the state of Minnesota (state code - MN), is identified by the zip code 56510.
+The city of Borup, located in the state of Minnesota (state code - MN), is identified by the zip code 56519.
+The city of Flom, located in the state of Minnesota (state code - MN), is identified by the zip code 56541.
+The city of Gary, located in the state of Minnesota (state code - MN), is identified by the zip code 56545.
+The city of Halstad, located in the state of Minnesota (state code - MN), is identified by the zip code 56548.
+The city of Hendrum, located in the state of Minnesota (state code - MN), is identified by the zip code 56550.
+The city of Perley, located in the state of Minnesota (state code - MN), is identified by the zip code 56574.
+The city of Shelly, located in the state of Minnesota (state code - MN), is identified by the zip code 56581.
+The city of Twin Valley, located in the state of Minnesota (state code - MN), is identified by the zip code 56584.
+The city of Rochester, located in the state of Minnesota (state code - MN), is identified by the zip code 55901.
+The city of Rochester, located in the state of Minnesota (state code - MN), is identified by the zip code 55902.
+The city of Rochester, located in the state of Minnesota (state code - MN), is identified by the zip code 55903.
+The city of Rochester, located in the state of Minnesota (state code - MN), is identified by the zip code 55904.
+The city of Rochester, located in the state of Minnesota (state code - MN), is identified by the zip code 55905.
+The city of Rochester, located in the state of Minnesota (state code - MN), is identified by the zip code 55906.
+The city of Byron, located in the state of Minnesota (state code - MN), is identified by the zip code 55920.
+The city of Dover, located in the state of Minnesota (state code - MN), is identified by the zip code 55929.
+The city of Eyota, located in the state of Minnesota (state code - MN), is identified by the zip code 55934.
+The city of Oronoco, located in the state of Minnesota (state code - MN), is identified by the zip code 55960.
+The city of Stewartville, located in the state of Minnesota (state code - MN), is identified by the zip code 55976.
+The city of Dalton, located in the state of Minnesota (state code - MN), is identified by the zip code 56324.
+The city of Parkers Prairie, located in the state of Minnesota (state code - MN), is identified by the zip code 56361.
+The city of Battle Lake, located in the state of Minnesota (state code - MN), is identified by the zip code 56515.
+The city of Bluffton, located in the state of Minnesota (state code - MN), is identified by the zip code 56518.
+The city of Clitherall, located in the state of Minnesota (state code - MN), is identified by the zip code 56524.
+The city of Deer Creek, located in the state of Minnesota (state code - MN), is identified by the zip code 56527.
+The city of Dent, located in the state of Minnesota (state code - MN), is identified by the zip code 56528.
+The city of Elizabeth, located in the state of Minnesota (state code - MN), is identified by the zip code 56533.
+The city of Erhard, located in the state of Minnesota (state code - MN), is identified by the zip code 56534.
+The city of Fergus Falls, located in the state of Minnesota (state code - MN), is identified by the zip code 56537.
+The city of Fergus Falls, located in the state of Minnesota (state code - MN), is identified by the zip code 56538.
+The city of Henning, located in the state of Minnesota (state code - MN), is identified by the zip code 56551.
+The city of New York Mills, located in the state of Minnesota (state code - MN), is identified by the zip code 56567.
+The city of Ottertail, located in the state of Minnesota (state code - MN), is identified by the zip code 56571.
+The city of Pelican Rapids, located in the state of Minnesota (state code - MN), is identified by the zip code 56572.
+The city of Perham, located in the state of Minnesota (state code - MN), is identified by the zip code 56573.
+The city of Richville, located in the state of Minnesota (state code - MN), is identified by the zip code 56576.
+The city of Underwood, located in the state of Minnesota (state code - MN), is identified by the zip code 56586.
+The city of Vergas, located in the state of Minnesota (state code - MN), is identified by the zip code 56587.
+The city of Vining, located in the state of Minnesota (state code - MN), is identified by the zip code 56588.
+The city of Thief River Falls, located in the state of Minnesota (state code - MN), is identified by the zip code 56701.
+The city of Goodridge, located in the state of Minnesota (state code - MN), is identified by the zip code 56725.
+The city of Saint Hilaire, located in the state of Minnesota (state code - MN), is identified by the zip code 56754.
+The city of Brook Park, located in the state of Minnesota (state code - MN), is identified by the zip code 55007.
+The city of Grasston, located in the state of Minnesota (state code - MN), is identified by the zip code 55030.
+The city of Henriette, located in the state of Minnesota (state code - MN), is identified by the zip code 55036.
+The city of Hinckley, located in the state of Minnesota (state code - MN), is identified by the zip code 55037.
+The city of Pine City, located in the state of Minnesota (state code - MN), is identified by the zip code 55063.
+The city of Rock Creek, located in the state of Minnesota (state code - MN), is identified by the zip code 55067.
+The city of Sandstone, located in the state of Minnesota (state code - MN), is identified by the zip code 55072.
+The city of Askov, located in the state of Minnesota (state code - MN), is identified by the zip code 55704.
+The city of Bruno, located in the state of Minnesota (state code - MN), is identified by the zip code 55712.
+The city of Finlayson, located in the state of Minnesota (state code - MN), is identified by the zip code 55735.
+The city of Kerrick, located in the state of Minnesota (state code - MN), is identified by the zip code 55756.
+The city of Sturgeon Lake, located in the state of Minnesota (state code - MN), is identified by the zip code 55783.
+The city of Willow River, located in the state of Minnesota (state code - MN), is identified by the zip code 55795.
+The city of Edgerton, located in the state of Minnesota (state code - MN), is identified by the zip code 56128.
+The city of Holland, located in the state of Minnesota (state code - MN), is identified by the zip code 56139.
+The city of Ihlen, located in the state of Minnesota (state code - MN), is identified by the zip code 56140.
+The city of Jasper, located in the state of Minnesota (state code - MN), is identified by the zip code 56144.
+The city of Pipestone, located in the state of Minnesota (state code - MN), is identified by the zip code 56164.
+The city of Ruthton, located in the state of Minnesota (state code - MN), is identified by the zip code 56170.
+The city of Woodstock, located in the state of Minnesota (state code - MN), is identified by the zip code 56186.
+The city of Beltrami, located in the state of Minnesota (state code - MN), is identified by the zip code 56517.
+The city of Climax, located in the state of Minnesota (state code - MN), is identified by the zip code 56523.
+The city of Erskine, located in the state of Minnesota (state code - MN), is identified by the zip code 56535.
+The city of Fertile, located in the state of Minnesota (state code - MN), is identified by the zip code 56540.
+The city of Fosston, located in the state of Minnesota (state code - MN), is identified by the zip code 56542.
+The city of Mcintosh, located in the state of Minnesota (state code - MN), is identified by the zip code 56556.
+The city of Nielsville, located in the state of Minnesota (state code - MN), is identified by the zip code 56568.
+The city of Winger, located in the state of Minnesota (state code - MN), is identified by the zip code 56592.
+The city of Gully, located in the state of Minnesota (state code - MN), is identified by the zip code 56646.
+The city of Lengby, located in the state of Minnesota (state code - MN), is identified by the zip code 56651.
+The city of Trail, located in the state of Minnesota (state code - MN), is identified by the zip code 56684.
+The city of Crookston, located in the state of Minnesota (state code - MN), is identified by the zip code 56716.
+The city of East Grand Forks, located in the state of Minnesota (state code - MN), is identified by the zip code 56721.
+The city of Euclid, located in the state of Minnesota (state code - MN), is identified by the zip code 56722.
+The city of Fisher, located in the state of Minnesota (state code - MN), is identified by the zip code 56723.
+The city of Mentor, located in the state of Minnesota (state code - MN), is identified by the zip code 56736.
+The city of Cyrus, located in the state of Minnesota (state code - MN), is identified by the zip code 56323.
+The city of Farwell, located in the state of Minnesota (state code - MN), is identified by the zip code 56327.
+The city of Glenwood, located in the state of Minnesota (state code - MN), is identified by the zip code 56334.
+The city of Lowry, located in the state of Minnesota (state code - MN), is identified by the zip code 56349.
+The city of Starbuck, located in the state of Minnesota (state code - MN), is identified by the zip code 56381.
+The city of Villard, located in the state of Minnesota (state code - MN), is identified by the zip code 56385.
+The city of Saint Paul, located in the state of Minnesota (state code - MN), is identified by the zip code 55101.
+The city of Saint Paul, located in the state of Minnesota (state code - MN), is identified by the zip code 55102.
+The city of Saint Paul, located in the state of Minnesota (state code - MN), is identified by the zip code 55103.
+The city of Saint Paul, located in the state of Minnesota (state code - MN), is identified by the zip code 55104.
+The city of Saint Paul, located in the state of Minnesota (state code - MN), is identified by the zip code 55105.
+The city of Saint Paul, located in the state of Minnesota (state code - MN), is identified by the zip code 55106.
+The city of Saint Paul, located in the state of Minnesota (state code - MN), is identified by the zip code 55107.
+The city of Saint Paul, located in the state of Minnesota (state code - MN), is identified by the zip code 55108.
+The city of Saint Paul, located in the state of Minnesota (state code - MN), is identified by the zip code 55109.
+The city of Saint Paul, located in the state of Minnesota (state code - MN), is identified by the zip code 55110.
+The city of Saint Paul, located in the state of Minnesota (state code - MN), is identified by the zip code 55112.
+The city of Saint Paul, located in the state of Minnesota (state code - MN), is identified by the zip code 55113.
+The city of Saint Paul, located in the state of Minnesota (state code - MN), is identified by the zip code 55114.
+The city of Saint Paul, located in the state of Minnesota (state code - MN), is identified by the zip code 55116.
+The city of Saint Paul, located in the state of Minnesota (state code - MN), is identified by the zip code 55117.
+The city of Saint Paul, located in the state of Minnesota (state code - MN), is identified by the zip code 55119.
+The city of Saint Paul, located in the state of Minnesota (state code - MN), is identified by the zip code 55126.
+The city of Saint Paul, located in the state of Minnesota (state code - MN), is identified by the zip code 55127.
+The city of Saint Paul, located in the state of Minnesota (state code - MN), is identified by the zip code 55130.
+The city of Saint Paul, located in the state of Minnesota (state code - MN), is identified by the zip code 55131.
+The city of Saint Paul, located in the state of Minnesota (state code - MN), is identified by the zip code 55133.
+The city of Saint Paul, located in the state of Minnesota (state code - MN), is identified by the zip code 55144.
+The city of Saint Paul, located in the state of Minnesota (state code - MN), is identified by the zip code 55145.
+The city of Saint Paul, located in the state of Minnesota (state code - MN), is identified by the zip code 55146.
+The city of Saint Paul, located in the state of Minnesota (state code - MN), is identified by the zip code 55155.
+The city of Saint Paul, located in the state of Minnesota (state code - MN), is identified by the zip code 55164.
+The city of Saint Paul, located in the state of Minnesota (state code - MN), is identified by the zip code 55165.
+The city of Saint Paul, located in the state of Minnesota (state code - MN), is identified by the zip code 55170.
+The city of Saint Paul, located in the state of Minnesota (state code - MN), is identified by the zip code 55172.
+The city of Saint Paul, located in the state of Minnesota (state code - MN), is identified by the zip code 55175.
+The city of Saint Paul, located in the state of Minnesota (state code - MN), is identified by the zip code 55187.
+The city of Saint Paul, located in the state of Minnesota (state code - MN), is identified by the zip code 55188.
+The city of Brooks, located in the state of Minnesota (state code - MN), is identified by the zip code 56715.
+The city of Oklee, located in the state of Minnesota (state code - MN), is identified by the zip code 56742.
+The city of Plummer, located in the state of Minnesota (state code - MN), is identified by the zip code 56748.
+The city of Red Lake Falls, located in the state of Minnesota (state code - MN), is identified by the zip code 56750.
+The city of Sanborn, located in the state of Minnesota (state code - MN), is identified by the zip code 56083.
+The city of Lamberton, located in the state of Minnesota (state code - MN), is identified by the zip code 56152.
+The city of Revere, located in the state of Minnesota (state code - MN), is identified by the zip code 56166.
+The city of Walnut Grove, located in the state of Minnesota (state code - MN), is identified by the zip code 56180.
+The city of Belview, located in the state of Minnesota (state code - MN), is identified by the zip code 56214.
+The city of Clements, located in the state of Minnesota (state code - MN), is identified by the zip code 56224.
+The city of Lucan, located in the state of Minnesota (state code - MN), is identified by the zip code 56255.
+The city of Milroy, located in the state of Minnesota (state code - MN), is identified by the zip code 56263.
+The city of Morgan, located in the state of Minnesota (state code - MN), is identified by the zip code 56266.
+The city of Redwood Falls, located in the state of Minnesota (state code - MN), is identified by the zip code 56283.
+The city of Seaforth, located in the state of Minnesota (state code - MN), is identified by the zip code 56287.
+The city of Vesta, located in the state of Minnesota (state code - MN), is identified by the zip code 56292.
+The city of Wabasso, located in the state of Minnesota (state code - MN), is identified by the zip code 56293.
+The city of Wanda, located in the state of Minnesota (state code - MN), is identified by the zip code 56294.
+The city of Bird Island, located in the state of Minnesota (state code - MN), is identified by the zip code 55310.
+The city of Buffalo Lake, located in the state of Minnesota (state code - MN), is identified by the zip code 55314.
+The city of Fairfax, located in the state of Minnesota (state code - MN), is identified by the zip code 55332.
+The city of Franklin, located in the state of Minnesota (state code - MN), is identified by the zip code 55333.
+The city of Hector, located in the state of Minnesota (state code - MN), is identified by the zip code 55342.
+The city of Danube, located in the state of Minnesota (state code - MN), is identified by the zip code 56230.
+The city of Morton, located in the state of Minnesota (state code - MN), is identified by the zip code 56270.
+The city of Olivia, located in the state of Minnesota (state code - MN), is identified by the zip code 56277.
+The city of Renville, located in the state of Minnesota (state code - MN), is identified by the zip code 56284.
+The city of Sacred Heart, located in the state of Minnesota (state code - MN), is identified by the zip code 56285.
+The city of Dundas, located in the state of Minnesota (state code - MN), is identified by the zip code 55019.
+The city of Faribault, located in the state of Minnesota (state code - MN), is identified by the zip code 55021.
+The city of Lonsdale, located in the state of Minnesota (state code - MN), is identified by the zip code 55046.
+The city of Morristown, located in the state of Minnesota (state code - MN), is identified by the zip code 55052.
+The city of Nerstrand, located in the state of Minnesota (state code - MN), is identified by the zip code 55053.
+The city of Northfield, located in the state of Minnesota (state code - MN), is identified by the zip code 55057.
+The city of Warsaw, located in the state of Minnesota (state code - MN), is identified by the zip code 55087.
+The city of Webster, located in the state of Minnesota (state code - MN), is identified by the zip code 55088.
+The city of Beaver Creek, located in the state of Minnesota (state code - MN), is identified by the zip code 56116.
+The city of Hardwick, located in the state of Minnesota (state code - MN), is identified by the zip code 56134.
+The city of Hills, located in the state of Minnesota (state code - MN), is identified by the zip code 56138.
+The city of Kanaranzi, located in the state of Minnesota (state code - MN), is identified by the zip code 56146.
+The city of Kenneth, located in the state of Minnesota (state code - MN), is identified by the zip code 56147.
+The city of Luverne, located in the state of Minnesota (state code - MN), is identified by the zip code 56156.
+The city of Magnolia, located in the state of Minnesota (state code - MN), is identified by the zip code 56158.
+The city of Steen, located in the state of Minnesota (state code - MN), is identified by the zip code 56173.
+The city of Roosevelt, located in the state of Minnesota (state code - MN), is identified by the zip code 56673.
+The city of Swift, located in the state of Minnesota (state code - MN), is identified by the zip code 56682.
+The city of Badger, located in the state of Minnesota (state code - MN), is identified by the zip code 56714.
+The city of Greenbush, located in the state of Minnesota (state code - MN), is identified by the zip code 56726.
+The city of Roseau, located in the state of Minnesota (state code - MN), is identified by the zip code 56751.
+The city of Salol, located in the state of Minnesota (state code - MN), is identified by the zip code 56756.
+The city of Strathcona, located in the state of Minnesota (state code - MN), is identified by the zip code 56759.
+The city of Wannaska, located in the state of Minnesota (state code - MN), is identified by the zip code 56761.
+The city of Warroad, located in the state of Minnesota (state code - MN), is identified by the zip code 56763.
+The city of Brimson, located in the state of Minnesota (state code - MN), is identified by the zip code 55602.
+The city of Alborn, located in the state of Minnesota (state code - MN), is identified by the zip code 55702.
+The city of Angora, located in the state of Minnesota (state code - MN), is identified by the zip code 55703.
+The city of Aurora, located in the state of Minnesota (state code - MN), is identified by the zip code 55705.
+The city of Babbitt, located in the state of Minnesota (state code - MN), is identified by the zip code 55706.
+The city of Biwabik, located in the state of Minnesota (state code - MN), is identified by the zip code 55708.
+The city of Britt, located in the state of Minnesota (state code - MN), is identified by the zip code 55710.
+The city of Brookston, located in the state of Minnesota (state code - MN), is identified by the zip code 55711.
+The city of Buhl, located in the state of Minnesota (state code - MN), is identified by the zip code 55713.
+The city of Canyon, located in the state of Minnesota (state code - MN), is identified by the zip code 55717.
+The city of Chisholm, located in the state of Minnesota (state code - MN), is identified by the zip code 55719.
+The city of Cook, located in the state of Minnesota (state code - MN), is identified by the zip code 55723.
+The city of Cotton, located in the state of Minnesota (state code - MN), is identified by the zip code 55724.
+The city of Crane Lake, located in the state of Minnesota (state code - MN), is identified by the zip code 55725.
+The city of Ely, located in the state of Minnesota (state code - MN), is identified by the zip code 55731.
+The city of Embarrass, located in the state of Minnesota (state code - MN), is identified by the zip code 55732.
+The city of Eveleth, located in the state of Minnesota (state code - MN), is identified by the zip code 55734.
+The city of Floodwood, located in the state of Minnesota (state code - MN), is identified by the zip code 55736.
+The city of Forbes, located in the state of Minnesota (state code - MN), is identified by the zip code 55738.
+The city of Gilbert, located in the state of Minnesota (state code - MN), is identified by the zip code 55741.
+The city of Hibbing, located in the state of Minnesota (state code - MN), is identified by the zip code 55746.
+The city of Hibbing, located in the state of Minnesota (state code - MN), is identified by the zip code 55747.
+The city of Hoyt Lakes, located in the state of Minnesota (state code - MN), is identified by the zip code 55750.
+The city of Iron, located in the state of Minnesota (state code - MN), is identified by the zip code 55751.
+The city of Kinney, located in the state of Minnesota (state code - MN), is identified by the zip code 55758.
+The city of Makinen, located in the state of Minnesota (state code - MN), is identified by the zip code 55763.
+The city of Meadowlands, located in the state of Minnesota (state code - MN), is identified by the zip code 55765.
+The city of Melrude, located in the state of Minnesota (state code - MN), is identified by the zip code 55766.
+The city of Mountain Iron, located in the state of Minnesota (state code - MN), is identified by the zip code 55768.
+The city of Orr, located in the state of Minnesota (state code - MN), is identified by the zip code 55771.
+The city of Nett Lake, located in the state of Minnesota (state code - MN), is identified by the zip code 55772.
+The city of Virginia, located in the state of Minnesota (state code - MN), is identified by the zip code 55777.
+The city of Saginaw, located in the state of Minnesota (state code - MN), is identified by the zip code 55779.
+The city of Side Lake, located in the state of Minnesota (state code - MN), is identified by the zip code 55781.
+The city of Soudan, located in the state of Minnesota (state code - MN), is identified by the zip code 55782.
+The city of Tower, located in the state of Minnesota (state code - MN), is identified by the zip code 55790.
+The city of Twig, located in the state of Minnesota (state code - MN), is identified by the zip code 55791.
+The city of Virginia, located in the state of Minnesota (state code - MN), is identified by the zip code 55792.
+The city of Winton, located in the state of Minnesota (state code - MN), is identified by the zip code 55796.
+The city of Duluth, located in the state of Minnesota (state code - MN), is identified by the zip code 55801.
+The city of Duluth, located in the state of Minnesota (state code - MN), is identified by the zip code 55802.
+The city of Duluth, located in the state of Minnesota (state code - MN), is identified by the zip code 55803.
+The city of Duluth, located in the state of Minnesota (state code - MN), is identified by the zip code 55804.
+The city of Duluth, located in the state of Minnesota (state code - MN), is identified by the zip code 55805.
+The city of Duluth, located in the state of Minnesota (state code - MN), is identified by the zip code 55806.
+The city of Duluth, located in the state of Minnesota (state code - MN), is identified by the zip code 55807.
+The city of Duluth, located in the state of Minnesota (state code - MN), is identified by the zip code 55808.
+The city of Duluth, located in the state of Minnesota (state code - MN), is identified by the zip code 55810.
+The city of Duluth, located in the state of Minnesota (state code - MN), is identified by the zip code 55811.
+The city of Duluth, located in the state of Minnesota (state code - MN), is identified by the zip code 55812.
+The city of Duluth, located in the state of Minnesota (state code - MN), is identified by the zip code 55814.
+The city of Duluth, located in the state of Minnesota (state code - MN), is identified by the zip code 55815.
+The city of Duluth, located in the state of Minnesota (state code - MN), is identified by the zip code 55816.
+The city of Elko New Market, located in the state of Minnesota (state code - MN), is identified by the zip code 55020.
+The city of Elko New Market, located in the state of Minnesota (state code - MN), is identified by the zip code 55054.
+The city of Jordan, located in the state of Minnesota (state code - MN), is identified by the zip code 55352.
+The city of Prior Lake, located in the state of Minnesota (state code - MN), is identified by the zip code 55372.
+The city of Savage, located in the state of Minnesota (state code - MN), is identified by the zip code 55378.
+The city of Shakopee, located in the state of Minnesota (state code - MN), is identified by the zip code 55379.
+The city of Belle Plaine, located in the state of Minnesota (state code - MN), is identified by the zip code 56011.
+The city of Becker, located in the state of Minnesota (state code - MN), is identified by the zip code 55308.
+The city of Big Lake, located in the state of Minnesota (state code - MN), is identified by the zip code 55309.
+The city of Clear Lake, located in the state of Minnesota (state code - MN), is identified by the zip code 55319.
+The city of Elk River, located in the state of Minnesota (state code - MN), is identified by the zip code 55330.
+The city of Santiago, located in the state of Minnesota (state code - MN), is identified by the zip code 55377.
+The city of Zimmerman, located in the state of Minnesota (state code - MN), is identified by the zip code 55398.
+The city of Arlington, located in the state of Minnesota (state code - MN), is identified by the zip code 55307.
+The city of Gaylord, located in the state of Minnesota (state code - MN), is identified by the zip code 55334.
+The city of Gibbon, located in the state of Minnesota (state code - MN), is identified by the zip code 55335.
+The city of Green Isle, located in the state of Minnesota (state code - MN), is identified by the zip code 55338.
+The city of New Auburn, located in the state of Minnesota (state code - MN), is identified by the zip code 55366.
+The city of Winthrop, located in the state of Minnesota (state code - MN), is identified by the zip code 55396.
+The city of Henderson, located in the state of Minnesota (state code - MN), is identified by the zip code 56044.
+The city of Kimball, located in the state of Minnesota (state code - MN), is identified by the zip code 55353.
+The city of Saint Cloud, located in the state of Minnesota (state code - MN), is identified by the zip code 56301.
+The city of Saint Cloud, located in the state of Minnesota (state code - MN), is identified by the zip code 56302.
+The city of Saint Cloud, located in the state of Minnesota (state code - MN), is identified by the zip code 56303.
+The city of Saint Cloud, located in the state of Minnesota (state code - MN), is identified by the zip code 56304.
+The city of Albany, located in the state of Minnesota (state code - MN), is identified by the zip code 56307.
+The city of Avon, located in the state of Minnesota (state code - MN), is identified by the zip code 56310.
+The city of Belgrade, located in the state of Minnesota (state code - MN), is identified by the zip code 56312.
+The city of Brooten, located in the state of Minnesota (state code - MN), is identified by the zip code 56316.
+The city of Cold Spring, located in the state of Minnesota (state code - MN), is identified by the zip code 56320.
+The city of Collegeville, located in the state of Minnesota (state code - MN), is identified by the zip code 56321.
+The city of Elrosa, located in the state of Minnesota (state code - MN), is identified by the zip code 56325.
+The city of Freeport, located in the state of Minnesota (state code - MN), is identified by the zip code 56331.
+The city of Greenwald, located in the state of Minnesota (state code - MN), is identified by the zip code 56335.
+The city of Holdingford, located in the state of Minnesota (state code - MN), is identified by the zip code 56340.
+The city of Melrose, located in the state of Minnesota (state code - MN), is identified by the zip code 56352.
+The city of New Munich, located in the state of Minnesota (state code - MN), is identified by the zip code 56356.
+The city of Paynesville, located in the state of Minnesota (state code - MN), is identified by the zip code 56362.
+The city of Richmond, located in the state of Minnesota (state code - MN), is identified by the zip code 56368.
+The city of Rockville, located in the state of Minnesota (state code - MN), is identified by the zip code 56369.
+The city of Roscoe, located in the state of Minnesota (state code - MN), is identified by the zip code 56371.
+The city of Saint Cloud, located in the state of Minnesota (state code - MN), is identified by the zip code 56372.
+The city of Saint Joseph, located in the state of Minnesota (state code - MN), is identified by the zip code 56374.
+The city of Saint Stephen, located in the state of Minnesota (state code - MN), is identified by the zip code 56375.
+The city of Saint Martin, located in the state of Minnesota (state code - MN), is identified by the zip code 56376.
+The city of Sartell, located in the state of Minnesota (state code - MN), is identified by the zip code 56377.
+The city of Sauk Centre, located in the state of Minnesota (state code - MN), is identified by the zip code 56378.
+The city of Waite Park, located in the state of Minnesota (state code - MN), is identified by the zip code 56387.
+The city of Saint Cloud, located in the state of Minnesota (state code - MN), is identified by the zip code 56393.
+The city of Saint Cloud, located in the state of Minnesota (state code - MN), is identified by the zip code 56395.
+The city of Saint Cloud, located in the state of Minnesota (state code - MN), is identified by the zip code 56396.
+The city of Saint Cloud, located in the state of Minnesota (state code - MN), is identified by the zip code 56397.
+The city of Saint Cloud, located in the state of Minnesota (state code - MN), is identified by the zip code 56398.
+The city of Saint Cloud, located in the state of Minnesota (state code - MN), is identified by the zip code 56399.
+The city of Medford, located in the state of Minnesota (state code - MN), is identified by the zip code 55049.
+The city of Owatonna, located in the state of Minnesota (state code - MN), is identified by the zip code 55060.
+The city of Blooming Prairie, located in the state of Minnesota (state code - MN), is identified by the zip code 55917.
+The city of Ellendale, located in the state of Minnesota (state code - MN), is identified by the zip code 56026.
+The city of Hope, located in the state of Minnesota (state code - MN), is identified by the zip code 56046.
+The city of Alberta, located in the state of Minnesota (state code - MN), is identified by the zip code 56207.
+The city of Chokio, located in the state of Minnesota (state code - MN), is identified by the zip code 56221.
+The city of Donnelly, located in the state of Minnesota (state code - MN), is identified by the zip code 56235.
+The city of Hancock, located in the state of Minnesota (state code - MN), is identified by the zip code 56244.
+The city of Morris, located in the state of Minnesota (state code - MN), is identified by the zip code 56267.
+The city of Appleton, located in the state of Minnesota (state code - MN), is identified by the zip code 56208.
+The city of Benson, located in the state of Minnesota (state code - MN), is identified by the zip code 56215.
+The city of Clontarf, located in the state of Minnesota (state code - MN), is identified by the zip code 56226.
+The city of Danvers, located in the state of Minnesota (state code - MN), is identified by the zip code 56231.
+The city of Holloway, located in the state of Minnesota (state code - MN), is identified by the zip code 56249.
+The city of Kerkhoven, located in the state of Minnesota (state code - MN), is identified by the zip code 56252.
+The city of Murdock, located in the state of Minnesota (state code - MN), is identified by the zip code 56271.
+The city of Burtrum, located in the state of Minnesota (state code - MN), is identified by the zip code 56318.
+The city of Grey Eagle, located in the state of Minnesota (state code - MN), is identified by the zip code 56336.
+The city of Long Prairie, located in the state of Minnesota (state code - MN), is identified by the zip code 56347.
+The city of West Union, located in the state of Minnesota (state code - MN), is identified by the zip code 56389.
+The city of Bertha, located in the state of Minnesota (state code - MN), is identified by the zip code 56437.
+The city of Browerville, located in the state of Minnesota (state code - MN), is identified by the zip code 56438.
+The city of Clarissa, located in the state of Minnesota (state code - MN), is identified by the zip code 56440.
+The city of Eagle Bend, located in the state of Minnesota (state code - MN), is identified by the zip code 56446.
+The city of Hewitt, located in the state of Minnesota (state code - MN), is identified by the zip code 56453.
+The city of Staples, located in the state of Minnesota (state code - MN), is identified by the zip code 56479.
+The city of Browns Valley, located in the state of Minnesota (state code - MN), is identified by the zip code 56219.
+The city of Dumont, located in the state of Minnesota (state code - MN), is identified by the zip code 56236.
+The city of Wheaton, located in the state of Minnesota (state code - MN), is identified by the zip code 56296.
+The city of Tintah, located in the state of Minnesota (state code - MN), is identified by the zip code 56583.
+The city of Lake City, located in the state of Minnesota (state code - MN), is identified by the zip code 55041.
+The city of Elgin, located in the state of Minnesota (state code - MN), is identified by the zip code 55932.
+The city of Kellogg, located in the state of Minnesota (state code - MN), is identified by the zip code 55945.
+The city of Mazeppa, located in the state of Minnesota (state code - MN), is identified by the zip code 55956.
+The city of Millville, located in the state of Minnesota (state code - MN), is identified by the zip code 55957.
+The city of Plainview, located in the state of Minnesota (state code - MN), is identified by the zip code 55964.
+The city of Reads Landing, located in the state of Minnesota (state code - MN), is identified by the zip code 55968.
+The city of Wabasha, located in the state of Minnesota (state code - MN), is identified by the zip code 55981.
+The city of Zumbro Falls, located in the state of Minnesota (state code - MN), is identified by the zip code 55991.
+The city of Aldrich, located in the state of Minnesota (state code - MN), is identified by the zip code 56434.
+The city of Menahga, located in the state of Minnesota (state code - MN), is identified by the zip code 56464.
+The city of Sebeka, located in the state of Minnesota (state code - MN), is identified by the zip code 56477.
+The city of Verndale, located in the state of Minnesota (state code - MN), is identified by the zip code 56481.
+The city of Wadena, located in the state of Minnesota (state code - MN), is identified by the zip code 56482.
+The city of Janesville, located in the state of Minnesota (state code - MN), is identified by the zip code 56048.
+The city of New Richland, located in the state of Minnesota (state code - MN), is identified by the zip code 56072.
+The city of Waldorf, located in the state of Minnesota (state code - MN), is identified by the zip code 56091.
+The city of Waseca, located in the state of Minnesota (state code - MN), is identified by the zip code 56093.
+The city of Afton, located in the state of Minnesota (state code - MN), is identified by the zip code 55001.
+The city of Bayport, located in the state of Minnesota (state code - MN), is identified by the zip code 55003.
+The city of Cottage Grove, located in the state of Minnesota (state code - MN), is identified by the zip code 55016.
+The city of Forest Lake, located in the state of Minnesota (state code - MN), is identified by the zip code 55025.
+The city of Hugo, located in the state of Minnesota (state code - MN), is identified by the zip code 55038.
+The city of Lake Elmo, located in the state of Minnesota (state code - MN), is identified by the zip code 55042.
+The city of Lakeland, located in the state of Minnesota (state code - MN), is identified by the zip code 55043.
+The city of Marine On Saint Croix, located in the state of Minnesota (state code - MN), is identified by the zip code 55047.
+The city of Newport, located in the state of Minnesota (state code - MN), is identified by the zip code 55055.
+The city of Saint Paul Park, located in the state of Minnesota (state code - MN), is identified by the zip code 55071.
+The city of Scandia, located in the state of Minnesota (state code - MN), is identified by the zip code 55073.
+The city of Stillwater, located in the state of Minnesota (state code - MN), is identified by the zip code 55082.
+The city of Stillwater, located in the state of Minnesota (state code - MN), is identified by the zip code 55083.
+The city of Willernie, located in the state of Minnesota (state code - MN), is identified by the zip code 55090.
+The city of Saint Paul, located in the state of Minnesota (state code - MN), is identified by the zip code 55115.
+The city of Saint Paul, located in the state of Minnesota (state code - MN), is identified by the zip code 55125.
+The city of Saint Paul, located in the state of Minnesota (state code - MN), is identified by the zip code 55128.
+The city of Saint Paul, located in the state of Minnesota (state code - MN), is identified by the zip code 55129.
+The city of Darfur, located in the state of Minnesota (state code - MN), is identified by the zip code 56022.
+The city of La Salle, located in the state of Minnesota (state code - MN), is identified by the zip code 56056.
+The city of Lewisville, located in the state of Minnesota (state code - MN), is identified by the zip code 56060.
+The city of Madelia, located in the state of Minnesota (state code - MN), is identified by the zip code 56062.
+The city of Saint James, located in the state of Minnesota (state code - MN), is identified by the zip code 56081.
+The city of Butterfield, located in the state of Minnesota (state code - MN), is identified by the zip code 56120.
+The city of Odin, located in the state of Minnesota (state code - MN), is identified by the zip code 56160.
+The city of Breckenridge, located in the state of Minnesota (state code - MN), is identified by the zip code 56520.
+The city of Campbell, located in the state of Minnesota (state code - MN), is identified by the zip code 56522.
+The city of Foxhome, located in the state of Minnesota (state code - MN), is identified by the zip code 56543.
+The city of Kent, located in the state of Minnesota (state code - MN), is identified by the zip code 56553.
+The city of Nashua, located in the state of Minnesota (state code - MN), is identified by the zip code 56565.
+The city of Rothsay, located in the state of Minnesota (state code - MN), is identified by the zip code 56579.
+The city of Wolverton, located in the state of Minnesota (state code - MN), is identified by the zip code 56594.
+The city of Altura, located in the state of Minnesota (state code - MN), is identified by the zip code 55910.
+The city of Dakota, located in the state of Minnesota (state code - MN), is identified by the zip code 55925.
+The city of Homer, located in the state of Minnesota (state code - MN), is identified by the zip code 55942.
+The city of Lewiston, located in the state of Minnesota (state code - MN), is identified by the zip code 55952.
+The city of Minnesota City, located in the state of Minnesota (state code - MN), is identified by the zip code 55959.
+The city of Rollingstone, located in the state of Minnesota (state code - MN), is identified by the zip code 55969.
+The city of Saint Charles, located in the state of Minnesota (state code - MN), is identified by the zip code 55972.
+The city of Utica, located in the state of Minnesota (state code - MN), is identified by the zip code 55979.
+The city of Winona, located in the state of Minnesota (state code - MN), is identified by the zip code 55987.
+The city of Stockton, located in the state of Minnesota (state code - MN), is identified by the zip code 55988.
+The city of Albertville, located in the state of Minnesota (state code - MN), is identified by the zip code 55301.
+The city of Annandale, located in the state of Minnesota (state code - MN), is identified by the zip code 55302.
+The city of Buffalo, located in the state of Minnesota (state code - MN), is identified by the zip code 55313.
+The city of Clearwater, located in the state of Minnesota (state code - MN), is identified by the zip code 55320.
+The city of Cokato, located in the state of Minnesota (state code - MN), is identified by the zip code 55321.
+The city of Delano, located in the state of Minnesota (state code - MN), is identified by the zip code 55328.
+The city of Hanover, located in the state of Minnesota (state code - MN), is identified by the zip code 55341.
+The city of Howard Lake, located in the state of Minnesota (state code - MN), is identified by the zip code 55349.
+The city of Maple Lake, located in the state of Minnesota (state code - MN), is identified by the zip code 55358.
+The city of Monticello, located in the state of Minnesota (state code - MN), is identified by the zip code 55362.
+The city of Montrose, located in the state of Minnesota (state code - MN), is identified by the zip code 55363.
+The city of Rockford, located in the state of Minnesota (state code - MN), is identified by the zip code 55373.
+The city of Saint Michael, located in the state of Minnesota (state code - MN), is identified by the zip code 55376.
+The city of Silver Creek, located in the state of Minnesota (state code - MN), is identified by the zip code 55380.
+The city of South Haven, located in the state of Minnesota (state code - MN), is identified by the zip code 55382.
+The city of Waverly, located in the state of Minnesota (state code - MN), is identified by the zip code 55390.
+The city of Maple Plain, located in the state of Minnesota (state code - MN), is identified by the zip code 55592.
+The city of Canby, located in the state of Minnesota (state code - MN), is identified by the zip code 56220.
+The city of Clarkfield, located in the state of Minnesota (state code - MN), is identified by the zip code 56223.
+The city of Echo, located in the state of Minnesota (state code - MN), is identified by the zip code 56237.
+The city of Granite Falls, located in the state of Minnesota (state code - MN), is identified by the zip code 56241.
+The city of Hanley Falls, located in the state of Minnesota (state code - MN), is identified by the zip code 56245.
+The city of Porter, located in the state of Minnesota (state code - MN), is identified by the zip code 56280.
+The city of Wood Lake, located in the state of Minnesota (state code - MN), is identified by the zip code 56297.
